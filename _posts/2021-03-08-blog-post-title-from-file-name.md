@@ -1,32 +1,23 @@
-## Blog Post Title From First Header
+# Are public ownerhsip registries evidence based policy making? 
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+On a walk in New York I asked my friend how he set up his chewing gum business in Florida. He explained that his business was actually registered in Illinois and owned by him through his company in Sweden.  
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+"What a nightmare!", I joked before describing how hard it is to identify the "real owners" of a business.
+ 
+Public ownership data is nutoriously scarce. Only 23 of the world's 309 company registries have publically available ownership data and many of these registries are shutting down after the Court of Justice of the European Union (CJEU) decided to annul the provisions of the 5th EU Anti-Money Laundering Directive (AMLD5) that requires public access to benenficial ownership information.
+ 
+The CJEU decision rests on the argument that public access is invasive to the privacy of owners. Implicit is the claim that evidence is too weak to show that public registries prevent crime. 
 
----
+As we walked by the Trump Tower, my friend made a strong case to keep his business structure secret. 
 
-### This is a header
+> "If you need my ownership details and the ownership data of everybody to prevent crime you are essentially saying: if you have nothing to hide you have nothing to be afraid of" 
+ 
+## Impact of the CJEU's ruling on ownership registries
 
-#### Some T-SQL Code
+ <iframe src="https://e.infogram.com/_/tHd7YTUogfgl5qIYJlZU?parent_url=https%3A%2F%2Fwww.transparency.org%2Fen%2Fblog%2Feu-court-ruling-on-beneficial-ownership-registers-legitimate-access&src=embed#async_embed"
+" width="700" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
 
-#### Some PowerShell Code
 
-```powershell
-Write-Host "This is a powershell Code block";
 
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
