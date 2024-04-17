@@ -15,6 +15,10 @@ As we walked by the Trump Tower, my friend made a strong case to keep his busine
 
 > "If you need my ownership details and the ownership data of everybody to prevent crime you are essentially saying: if you have nothing to hide you have nothing to be afraid of" 
 
+
+## Impact of the CJEU decision
+
+
 <iframe src="https://e.infogram.com/_/tHd7YTUogfgl5qIYJlZU?parent_url=https%3A%2F%2Fwww.transparency.org%2Fen%2Fblog%2Feu-court-ruling-on-beneficial-ownership-registers-legitimate-access&src=embed#async_embed" width="700" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 
