@@ -1,6 +1,6 @@
 Welcome to Illicit Finance for investigators, a collection of investigations on illicit financial flows and the business networks behind war and war crimes.
 
-My background is in anti-money laundering solutions and evidence-based policy research. I was first motivated by the challenge of mapping illicit financial flows when I set up [Know Your Sanctions](https:/knowyoursanctions.com). In light of the war in Ukraine, I joined OSINT for Ukraine and decided to write "Illicit Finance" as a way of collating investigations and policy reviews. 
+I began mapping illicit financial flows when I set up [Know Your Sanctions](https://knowyoursanctions.com/) and in light of the war in Ukraine, I joined OSINT for Ukraine and decided to write "Illicit Finance" as a way of collating investigations and policy reviews. 
 
 My goals are:
 
