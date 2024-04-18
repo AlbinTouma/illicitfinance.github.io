@@ -1,4 +1,4 @@
-# Are public ownerhsip registries evidence based policy making? 
+# Should beneficial ownership registries be public? An evidennce based review. 
 
 
 On a walk in New York I asked my friend how he set up his chewing gum business in Florida. He explained that his business was actually registered in Illinois and owned by him through his company in Sweden.  
