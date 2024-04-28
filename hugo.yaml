@@ -1,0 +1,33 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Illicit Finance
+theme: 'hextra'
+
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+
+#Menu
+menu:
+  main:
+    - name: Blog
+      pageRef: posts/
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false

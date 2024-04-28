@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illicit Finance – Archive</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Archive on Illicit Finance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 18:02:35 +0300</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Should beneficial ownership registries be public? An evidence-based review</title>
+      <link>http://localhost:1313/blog/ubo/</link>
+      <pubDate>Fri, 19 Apr 2024 18:25:47 +0300</pubDate>
+      
+      <guid>http://localhost:1313/blog/ubo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;On a walk in New York I asked my friend how he set up his chewing gum business in Florida. He explained that his business was actually registered in Illinois and owned by him through his company in Sweden.&lt;/p&gt;
+&lt;p&gt;“What a nightmare!”, I joked before describing how hard it is to identify the “real owners” of a business.&lt;/p&gt;
+&lt;p&gt;Public ownership data is nutoriously scarce. Only 23 of the world’s 309 company registries have publically available ownership data.&lt;/p&gt;
+&lt;p&gt;Many of these registries are shutting down after the Court of Justice of the European Union (CJEU) decided to annul the provisions of the 5th EU Anti-Money Laundering Directive (AMLD5) that requires public access to benenficial ownership information.&lt;/p&gt;
+&lt;p&gt;The CJEU decision rests on the argument that public access is invasive to the privacy of owners. Implicit is the claim that evidence is too weak to show that public registries prevent crime.&lt;/p&gt;
+&lt;p&gt;As we walked by the Trump Tower, my friend made a strong case to keep his business structure secret.&lt;/p&gt;
+&lt;p&gt;“If you need my ownership details and the ownership data of everybody to prevent crime you are essentially saying: if you have nothing to hide you have nothing to be afraid of”&lt;/p&gt;
+&lt;h2&gt;Should UBO be public?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;should-ubo-be-public&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#should-ubo-be-public&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

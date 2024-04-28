@@ -1,0 +1,17 @@
+<!-- layouts/shortcodes/list_posts.html -->
+
+
+<!-- layouts/shortcodes/list_posts.html -->
+
+{{ $section := .Get "section" }}
+{{ $pages := where .Site.RegularPages "Section" $section }}
+<dl>
+    {{ range $pages }}
+        <dd>
+    <a href={{.Permalink}} style="text-decoration: none;">
+          <h3>{{ .Title }}</h3>
+    </a>
+        </dd>
+    {{ end }}
+</dl>
+
