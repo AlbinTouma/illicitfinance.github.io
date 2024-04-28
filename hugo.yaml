@@ -25,12 +25,14 @@ menu:
    
 params:
    navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
-      path: static/browser.png
-      dark: static/browser.png
+      path: images/mylogo.svg
+      dark: images/mylogo.svg
       link: /
+      heigth: 200
+      width: 200
            
 
 
