@@ -22,7 +22,16 @@ menu:
       weight: 3
       params:
         type: search
-
+   
+params:
+   navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: static/browser.png
+      dark: static/browser.png
+      link: /
+           
 
 
 markup:
