@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illicit Finance – Policy Review</title>
-    <link>http://localhost:44379/tags/policy-review/</link>
+    <link>http://localhost:1313/tags/policy-review/</link>
     <description>Recent content in Policy Review on Illicit Finance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2024 18:25:47 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:44379/tags/policy-review/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/policy-review/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,18 +16,33 @@
     
     
     <item>
-      <title>Are ownership registries evidence-based?</title>
-      <link>http://localhost:44379/posts/ubo/</link>
+      <title>What is the evidence for public ownership registries?</title>
+      <link>http://localhost:1313/posts/ubo/</link>
       <pubDate>Fri, 19 Apr 2024 18:25:47 +0300</pubDate>
       
-      <guid>http://localhost:44379/posts/ubo/</guid>
+      <guid>http://localhost:1313/posts/ubo/</guid>
       <description>
         
         
-        &lt;p&gt;While in New York, I asked a friend about his business in Florida and he explained that he is the owner through his Scandinavian business. Tracing his ownership structure would be time consuming and the task is made harder by the decision of the Court of Justice of the European Union (CJEU) to annul public access to ownership registries.&lt;/p&gt;
+        &lt;p&gt;While in New York, I asked a friend about his business in Florida and he explained to me that he is the owner through his Scandinavian business. Tracing his ownership structure would be time consuming and the task is made harder by the decision of the Court of Justice of the European Union (CJEU) to annul public access to ownership registries.&lt;/p&gt;
 &lt;p&gt;The CJEU ruled that public access contravenes the right to privacy in the EU Charter of Fundamental Rights. Implicit is the claim that evidence is weak to show that public ownership registries prevents crime. Or, as my friend put it, the argument for public ownership data is a rehash of: &lt;it&gt;if you have nothing to hide you have nothing to fear&amp;quot;&lt;/it&gt;.&lt;/p&gt;
 &lt;p&gt;What the court considers &amp;ldquo;strong&amp;rdquo; evidence is unclear, so let&amp;rsquo;s start with the strongest case for public access to ownership registries, namely the practice of fighting illicit finance.&lt;/p&gt;
-&lt;p&gt;The Panama Papers is likely the most widely recognised case of what happens when ownership data is publically exposed.&lt;/p&gt;
+&lt;h2&gt;Panama Papers&lt;span class=&#34;absolute -mt-20&#34; id=&#34;panama-papers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#panama-papers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The &lt;a href=&#34;https://www.icij.org/investigations/panama-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Panama Papers&lt;/a&gt; is the most public exposure of the world&amp;rsquo;s most powerful people and their financial secrets and the impact that those leaks have had serves as an excellent example of the positive impact that public ownership data has.&lt;/p&gt;
+&lt;p&gt;More than 11.5 million records exposed how politicians and criminals use the rogue offshore finance industry to launder money and avoid taxes.&lt;/p&gt;
+&lt;p&gt;The leaks implicated &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_people_named_in_the_Panama_Papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;150 politicians from 50 countries&lt;/a&gt; and had serious political fallout as Iceland&amp;rsquo;s Prime Minister, &lt;a href=&#34;https://www.theguardian.com/world/2016/apr/05/iceland-prime-minister-resigns-over-panama-papers-revelations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sigmundur Davio Gunnlaugsson&lt;/a&gt;, was forced to resign from his office amid outrage that his family had sheltered money offshore.&lt;/p&gt;
+&lt;p&gt;In the wake of the revelations that caused snap elections in Iceland, the Guardian used the offshore leaks to shed light on the trail between Vladimir Putin and an offshore network of assets worth $2bn.&lt;/p&gt;
+&lt;p&gt;Investigative journalists and their hard work not only helped close Mossack Fonseca, the infamous Panamanian law firm and target of the leak, but has also led to the prosecution of the firm&amp;rsquo;s owners, Lauria Paz and Ramon Fonseca.&lt;/p&gt;
+&lt;p&gt;They are now defendants in a dussin money laundering cases, including one in Panama where they are being tried for &lt;a href=&#34;https://www.organojudicial.gob.pa/noticias/fijan-nueva-fecha-de-audiencia-para-celebrar-juicio-en-caso-conocido-como-panama-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;crimes against public economic order&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;How Lauria Pax and Ramon Fronseca operated Mossack Fronseca and how their crimes impacted ordinary people inspired &amp;ldquo;The Laundromat&amp;rdquo;, a film starring Meryl Streep and Gary Oldman.&lt;/p&gt;
+&lt;style&gt;
+.iframe {margin: 50px}
+&lt;/style&gt; 
+&lt;iframe class=&#39;iframe&#39; margin-top=10 width=&#34;600&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wuBRcfe4bSo?si=5R4jvk5i5q7k0q72&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;The French actress, Isabelle Adjani, who was named in the leaks, was also tried for tax evasion after she was revealed to be a shareholder of a shell company, Deckert Investments Limited. Based on the leak, she was prosecuted for concealing a big donation from a Sengalese businessman and using an offshore company to funnel 100,000 euros.&lt;/p&gt;
+&lt;p&gt;The leaks also implicated 150 politicians and heads of state from 50 countries as shareholders, directors and beneficiaries of offshore companies.&lt;/p&gt;
+&lt;p&gt;Among those implicated in the leaks was David Cameron and the then Prime Minister of Iceland, Bjarni Benediktsson, who resigned as a result of the leaks.&lt;/p&gt;
+&lt;p&gt;A list of people named in the Panama Papers is avaiable on Wikipedia&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_people_named_in_the_Panama_Papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;List of people named in the Panama Papers&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;The reality of ownership data&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-reality-of-ownership-data&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-reality-of-ownership-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Is privacy an absolute right?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;is-privacy-an-absolute-right&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#is-privacy-an-absolute-right&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Public ownership data helps civl society, investigative journalists and law enforcement scrutinise data and combine it with other datasets, increasing the likelihood of spitting criminal activity.&lt;/p&gt;

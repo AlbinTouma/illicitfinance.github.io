@@ -11,6 +11,11 @@
 @import "components/code-copy.css";
 @import "components/hextra/feature-grid.css";
 
+
+a {
+  @apply "text-red-500";
+}
+
 html {
   @apply hx-text-base hx-antialiased;
   font-feature-settings: "rlig" 1, "calt" 1, "ss01" 1;
