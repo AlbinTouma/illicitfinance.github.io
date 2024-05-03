@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illicit Finance – Policy Review</title>
-    <link>http://localhost:37257/tags/policy-review/</link>
+    <link>http://localhost:41465/tags/policy-review/</link>
     <description>Recent content in Policy Review on Illicit Finance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2024 18:25:47 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:37257/tags/policy-review/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:41465/tags/policy-review/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>What is the evidence for public ownership registries?</title>
-      <link>http://localhost:37257/posts/ubo/</link>
+      <link>http://localhost:41465/posts/ubo/</link>
       <pubDate>Fri, 19 Apr 2024 18:25:47 +0300</pubDate>
       
-      <guid>http://localhost:37257/posts/ubo/</guid>
+      <guid>http://localhost:41465/posts/ubo/</guid>
       <description>
         
         
@@ -35,9 +35,9 @@
 &lt;p&gt;Investigative journalists and their hard work not only helped close Mossack Fonseca, the infamous Panamanian law firm and target of the leak, but has also led to the prosecution of the firm&amp;rsquo;s owners, Lauria Paz and Ramon Fonseca who are defendants in a case in Panama where they are being tried for &lt;a href=&#34;https://www.organojudicial.gob.pa/noticias/fijan-nueva-fecha-de-audiencia-para-celebrar-juicio-en-caso-conocido-como-panama-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;crimes against public economic order&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;How Lauria Pax and Ramon Fronseca operated Mossack Fronseca and how their crimes impacted ordinary people inspired &amp;ldquo;The Laundromat&amp;rdquo;, a film starring Meryl Streep and Gary Oldman.&lt;/p&gt;
 &lt;style&gt;
-.iframe {margin: 50px}
+.iframe {margin-top: 50px; margin-bottom: 50px}
 &lt;/style&gt; 
-&lt;iframe class=&#39;iframe&#39; width=&#34;100%&#34; height=&#34;100%&#34; src=&#34;https://www.youtube.com/embed/wuBRcfe4bSo?si=5R4jvk5i5q7k0q72&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe class=&#39;iframe&#39; width=&#34;100%&#34; height=&#34;500px&#34; src=&#34;https://www.youtube.com/embed/wuBRcfe4bSo?si=5R4jvk5i5q7k0q72&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;The Panama Papers show that transparent ownership is vital to fighting corruption and that when ownership structures are made public, those implicit in illicit finance face legal consequences.&lt;/p&gt;
 &lt;p&gt;Hold on - is the Panama Papers really a strong case for opening ownership registries? After all, the trenche of 11 million documents are a leak of sensitive information from a shadowy organisation and not a register where ordinary people set up their business.&lt;/p&gt;
 &lt;p&gt;The whistleblower nature of the Panama Papers is a perfectly valid objection, so let&amp;rsquo;s look at two investigations that used real ownership registries.&lt;/p&gt;

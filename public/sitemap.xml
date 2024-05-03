@@ -2,26 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:37257/</loc>
+    <loc>http://localhost:41465/</loc>
     <lastmod>2024-04-19T18:38:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:37257/about/</loc>
+    <loc>http://localhost:41465/about/</loc>
     <lastmod>2024-04-19T18:38:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:37257/posts/</loc>
+    <loc>http://localhost:41465/posts/</loc>
     <lastmod>2024-04-19T18:25:47+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:37257/tags/policy-review/</loc>
+    <loc>http://localhost:41465/tags/policy-review/</loc>
     <lastmod>2024-04-19T18:25:47+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:37257/tags/</loc>
+    <loc>http://localhost:41465/tags/</loc>
     <lastmod>2024-04-19T18:25:47+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:37257/posts/ubo/</loc>
+    <loc>http://localhost:41465/posts/ubo/</loc>
     <lastmod>2024-04-19T18:25:47+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:37257/categories/</loc>
-  </url><url>
-    <loc>http://localhost:37257/posts/where_find_ownership/</loc>
+    <loc>http://localhost:41465/categories/</loc>
   </url>
 </urlset>
