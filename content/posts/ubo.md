@@ -30,7 +30,7 @@ How Lauria Pax and Ramon Fronseca operated Mossack Fronseca and how their crimes
 .iframe {margin: 50px}
 </style> 
 
-<iframe class='iframe' margin-top=10 width="600" height="315" src="https://www.youtube.com/embed/wuBRcfe4bSo?si=5R4jvk5i5q7k0q72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class='iframe' width="100%" height="100%" src="https://www.youtube.com/embed/wuBRcfe4bSo?si=5R4jvk5i5q7k0q72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The Panama Papers show that transparent ownership is vital to fighting corruption and that when ownership structures are made public, those implicit in illicit finance face legal consequences.
@@ -87,7 +87,6 @@ However, publishing information about who owns companies is different in one imp
 Privacy is a critical right, but it isn't absolute. 
 
 Having a substantial ownership stake in a company gives that individual access to a range of benefits, including protection from personal liability.  
-
 In exchange, is it not fair to expect business owners to help society ensure that companies are used for thier intended purposes?
 
 Opening a company is easy and benefits society as a whole and one unintened consequence of this is that corporations have become easy tools for criminals.
@@ -119,7 +118,7 @@ Transparency International's [map](https://www.transparency.org/en/blog/eu-court
 </style> 
 
 
- <iframe class="ICJ_impact" src="https://e.infogram.com/_/tHd7YTUogfgl5qIYJlZU?parent_url=https%3A%2F%2Fwww.transparency.org%2Fen%2Fblog%2Feu-court-ruling-on-beneficial-ownership-registers-legitimate-access&src=embed#async_embed"
+ <iframe class="ICJ_impact" width="100%" src="https://e.infogram.com/_/tHd7YTUogfgl5qIYJlZU?parent_url=https%3A%2F%2Fwww.transparency.org%2Fen%2Fblog%2Feu-court-ruling-on-beneficial-ownership-registers-legitimate-access&src=embed#async_embed"
 " width="700" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 
