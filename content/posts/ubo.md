@@ -138,4 +138,4 @@ Evidence from practice shows that open access is crucial to improving the qualit
 
 It is also clear that some members states will interpret the CJEU's ruling conservatively and contravene the spirit of the CJEU ruling, namely to protect both privacy and civil society's legitimate interest. 
 
-What is required are EU rules that leave no space for discrimination against civil society and public watchdogs and instead, enable thosse who work with the combating of illicit finance to access crucial ownership data. 
+What is required are EU rules that leave no space for discrimination against civil society and public watchdogs. Those rules should, instead, enable those who work with the combating of illicit finance to access crucial ownership data. 
