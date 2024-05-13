@@ -12,7 +12,7 @@ module:
 #Menu
 menu:
   main:
-    - name: Blog
+    - name: Insights
       pageRef: posts/
       weight: 1
     - name: About

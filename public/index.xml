@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>What is the evidence for public ownership registries?</title>
+      <title>What evidence is there for public ownership registries?</title>
       <link>http://localhost:1313/posts/ubo/</link>
       <pubDate>Fri, 19 Apr 2024 18:25:47 +0300</pubDate>
       
@@ -95,36 +95,80 @@ In exchange, is it not fair to expect business owners to help society ensure tha
     </item>
     
     <item>
-      <title>Who&#39;s who in sanctions and how investigators find out</title>
-      <link>http://localhost:1313/posts/ukrainian_sanctions/</link>
+      <title>How investigators find out who&#39;s who in sanctions investigations</title>
+      <link>http://localhost:1313/posts/ukrainian_sanctionsar/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ukrainian_sanctions/</guid>
+      <guid>http://localhost:1313/posts/ukrainian_sanctionsar/</guid>
       <description>
         
         
-        &lt;p&gt;We often talk about sanctions in the context of efficiency or individual cases. Who&amp;rsquo;s who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and members of their networks.&lt;/p&gt;
-&lt;h2&gt;Ontology&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ontology&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ontology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A big part of researching who&amp;rsquo;s who in the sancioned space is knowing how to describe entities and relations beetween them. In industry, we describe our domain and its objects in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ontology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ontology&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;We often talk about sanctions in the context of efficiency or individual cases. Who&amp;rsquo;s who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll explore 4 steps in the research process, from the design of research methods to the collection, analysis, and sharing of intelligence.&lt;/p&gt;
+&lt;h2&gt;The Research Process&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-research-process&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-research-process&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;steps ml-4 mb-12 border-l border-gray-200 pl-6 dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Research design&lt;span class=&#34;absolute -mt-20&#34; id=&#34;research-design&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#research-design&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The first step is to settle on an ontology that describes entities and relations between them. We recommend Follow the Money&amp;rsquo;s ontology.&lt;/p&gt;
+&lt;p&gt;Once you have an ontology, you can build a taxonomy to describe and group your information.&lt;/p&gt;
+&lt;h3&gt;Structured &amp;amp; Unstructured Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;structured--unstructured-sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#structured--unstructured-sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the second step.&lt;/p&gt;
+&lt;h3&gt;Network analysis&lt;span class=&#34;absolute -mt-20&#34; id=&#34;network-analysis&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#network-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;h2&gt;Follow the Money&lt;span class=&#34;absolute -mt-20&#34; id=&#34;follow-the-money&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#follow-the-money&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A big part of researching who&amp;rsquo;s who in the sancioned space is knowing how to describe entities and relations beetween them. In industry, we describe our domain and its objects in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ontology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ontology&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;An ontology is a formal naming and definition of categories, properties, and relations betweeen concepts, data, or entities.&lt;/p&gt;
+&lt;p&gt;Follow the Money is an ontology that is commonly used in anti-corruption investigations.&lt;/p&gt;
+&lt;p&gt;Their ontology defines entities revelant in such investigations, like people or companies, and helps investigators create a graph of relationships.&lt;/p&gt;
 &lt;p&gt;One of the most common tasks for an investigative reporter is to work out if one thing is the same as another. Is the person who owns a sanctioned company the same guy who is a mayor in my city?&lt;/p&gt;
 &lt;p&gt;Many facts might provide hints that allow us to establish if he is &amp;ldquo;our guy&amp;rdquo;. Do the individuals have the same name, date of birth, nationality, passport number? Do we know about links to other individuals or companies in both data sets?&lt;/p&gt;
 &lt;p&gt;When you have a clearly defined ontology, you can turn representations of objects and events into complex data and compile and cross-reference these hints.&lt;/p&gt;
-&lt;h3&gt;Follow the Money&lt;span class=&#34;absolute -mt-20&#34; id=&#34;follow-the-money&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#follow-the-money&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;One common ontology used in anti-corruption investigations is the Follow the Money Ontology. It defines entities relevant in such investigations, like people or companies, and lets you reference entities creating a graph of relationships.&lt;/p&gt;
 &lt;p&gt;The Follow the Money ontology consists of schemata ie object types that exist as an inheritance hieracy, rooted in things and events.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Things&lt;/strong&gt; describe real-world objects like &lt;code&gt;people&lt;/code&gt;, &lt;code&gt;Companies&lt;/code&gt;, &lt;code&gt;Assets&lt;/code&gt;, &lt;code&gt;Court Cases&lt;/code&gt;. You can think of things as entities.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Intervals&lt;/strong&gt; are business interests, court cases, sanctions, and transactions and are useful for linking entities together, possibly over time.&lt;/p&gt;
-&lt;h3&gt;Taxonomy&lt;span class=&#34;absolute -mt-20&#34; id=&#34;taxonomy&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#taxonomy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Risk based approach&lt;span class=&#34;absolute -mt-20&#34; id=&#34;risk-based-approach&#34;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/fmt_schema.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Taxonomy&lt;span class=&#34;absolute -mt-20&#34; id=&#34;taxonomy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#taxonomy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;While an ontology is a formal representation of knoweldge that defines concepts and relationships within a domain in a structured way, a taxonomy concerns the classification of entities based on their characteristics.&lt;/p&gt;
+&lt;p&gt;Taxonomies are used to group types of entities into categories.&lt;/p&gt;
+&lt;p&gt;For example, when we talk about associations and relationships in the sanctions space, we need ways of describing the type of entity or relationship.&lt;/p&gt;
+&lt;p&gt;An associated entity could be an entity type: person, organisation, or vessel. If we know that our entity is a person, we can class his or her relationship to the sanctioned entity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Taxonomy of relationships&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Relationship&lt;/th&gt;
+&lt;th&gt;Definition&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Employee&lt;/td&gt;
+&lt;td&gt;The associated person is employed by the sanctioned individual&lt;/td&gt;
+&lt;td&gt;A nuclear engineer working for sanctioned company&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Owned or controlled by&lt;/td&gt;
+&lt;td&gt;The associated organisation is owned or controlled by the entity it is connects with&lt;/td&gt;
+&lt;td&gt;OO NOVATEK-PERM is a subsidiary that is owned by sanctioned OAO NOVATEK&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Family member&lt;/td&gt;
+&lt;td&gt;An associate is a spouse, uncle, aunt, child, parent of sanctioned person&lt;/td&gt;
+&lt;td&gt;Asma al-Assad is the spoise od Bashar al-Assad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Examples of types of relationships are: shareholder, employee, business partner, family member.&lt;/p&gt;
+&lt;p&gt;Having a taxonomy is crucial to investigations. A good taxonomy lets investigators describe and filter the information they&amp;rsquo;re collecting.&lt;/p&gt;
+&lt;h2&gt;Risk based approach&lt;span class=&#34;absolute -mt-20&#34; id=&#34;risk-based-approach&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#risk-based-approach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Regulatory Research&lt;span class=&#34;absolute -mt-20&#34; id=&#34;regulatory-research&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#regulatory-research&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Data&lt;span class=&#34;absolute -mt-20&#34; id=&#34;data&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Structured data&lt;span class=&#34;absolute -mt-20&#34; id=&#34;structured-data&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#structured-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Unstructured data&lt;span class=&#34;absolute -mt-20&#34; id=&#34;unstructured-data&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#unstructured-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Entity resolution&lt;span class=&#34;absolute -mt-20&#34; id=&#34;entity-resolution&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#entity-resolution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Enrichment&lt;span class=&#34;absolute -mt-20&#34; id=&#34;enrichment&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#enrichment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Network Analysis&lt;span class=&#34;absolute -mt-20&#34; id=&#34;network-analysis&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#network-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;OFAC 50&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ofac-50&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#enrichment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Network Analysis&lt;span class=&#34;absolute -mt-20&#34; id=&#34;network-analysis-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#network-analysis-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;OFAC 50&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ofac-50&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#ofac-50&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;It is relatively straightforward to find out if an individual, vessel, or organisation is subject to financial sanctions. You usually return a match after a quick search of the entity&amp;rsquo;s name or alias on consolidated sanctions lists such as &lt;a href=&#34;https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Office of Financial Sanctions Implementations&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Identifying if an entity is sanctioned becomes harder when shell companies are involved. A company may not show up as sanctioned, but it is 51% owned by another company which is sanctioned. This means both companies are sanctioned.&lt;/p&gt;
 

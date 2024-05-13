@@ -2,3 +2,23 @@ div.content a {
   color: red;
 }
 
+.content {
+  font-family: "Noto Sans Display", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-optical-sizing: auto;
+  font-variation-settings: "wdth" 100;
+  font-size: 18px;
+
+}
+
+.content p {
+  line-height: 1.6;
+  /* https://www.mediavine.com/increase-your-line-height-and-improve-rpm-and-readability/#:~:text=That%20figure%20multiplies%20your%20font,No. */
+
+}
+
+.iframe {
+  margin-top: 50px;
+  margin-bottom: 50px
+}

@@ -8,6 +8,6 @@ Welcome to Illicit Finance for investigators -- a collection of investigations o
 
 
 
-## Latest
+## Insights
 
 {{< list_posts section="posts" >}} 
