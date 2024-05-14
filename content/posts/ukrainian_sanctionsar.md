@@ -69,14 +69,54 @@ An associated entity could be an entity type: person, organisation, or vessel. I
 Having a taxonomy is crucial to investigations. A good taxonomy lets investigators describe and filter the information they're collecting. 
 
 
-### Data Collection
+### Collect data
 
-#### Primary sources
+Global sanctions regimes vary as some countries implement and enforce the sanctions of international organisations such as the EU and the UN while others develop their own sanctions programs with their own sanctions lists. 
+
+The first step in researching sanctioned entities is knowing which ones appear on an official sanctions list. 
+
+#### Key sanctions lists
+
+Government and finanical authorities maintain targeted sanctions lists. These lists are often available online and the lists evolve quickly.
+
+
+
+- **UN sanctions list** is also known as the [UNSC Consolidated List](https://www.un.org/securitycouncil/content/un-sc-consolidated-list). It consists of one list of individual targets and one list of entities and group targets. UN sanctions are imposed by UN security council resolutions when the council determines a country is in breach of international law.
+- **US sanctions** are the most influential global sanctions regime and consists of multiple sanctions lists. The Office of Foreign Assets Control, OFAC, maintains its primary sanctions lists. 
+  - The [Specially Designated Nationals (SDN)](https://sanctionslist.ofac.treas.gov/Home/SdnList) list sanctions individuals and companies. 
+  - The [Consolidated Sanctions List](https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList) contains sanctions information not included in the SDN list. 
+- **UK sanctions** are enforced by the Office of Financial Sanctions Implementations (OFSI) and Her Majesty's Treasury (HTM). Accordingly, UK firms must screen against UK Sanctions List.
+- **Australia sanctions** are implemented by the Australian Sanctions Office (ASO) and the Department of Foriegn Affairs and Trade (DFAT). These two deparments implement Australia's sanctions regime and firms must screen against Consolidated List of sanctions. 
+- **Canada sanctions** are implemented under the Special Economic Measures Act (SEMA) and the Justice for Victims of Corrupt Foreign Officials Act (JVCFO). Canadian sanctions are on the [Consolidated Canadian Autonomous Sanctions List]. 
+- **Japan sanctions** are issued under the authority of the Foreign Exchange and Foreign Trade Act (FEFTA) and implemented by the Ministry of Economy, Trade, and Industry and the Ministry of Finance. Japan works with the UN, the US, and the EU in compiling its sanctions.
+- **China sanctions** are issued by the Chinese Ministry of Foreign Affairs and, since 2020, China's Ministry of Commerce has developed new sanctions regulations designed as a response to Western sanctions. In China, there is the Unreliable Entity List (UEL) and rules the Anti-Foreign Sanctions Law and the Blocking Rules. 
+
+
+#### Data in key sanctions lists
+
+Sanctions lists are useful primary sources. They help investigators identify who's who in the sanctions space and serve as an excellent stepping stone to identifying associates and enablers of sanctioned entities. 
+
+Common information about sanctioned entities include:
+- ``name`` 
+- ``alias``
+- ``nationality``
+- ``passport number`` 
+- `country of birth`
+- `reason for being sanctioned` 
+
+Sanctions lists are usually strucuted xml, csv or html format, but can come as unstructured pdfs that require manual extraction. Below is an extract from the UNSC Consolidated List.
+
+> iTAi.007 Name: 1: ABDUL LATIF 2: MANSUR 3: na 4: na
+Name (original script): عبد اللطيف منصور
+Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB: Approximately 1968 POB: Zurmat District, Paktia Province, Afghanistan Good quality a.k.a.: a) Abdul Latif Mansoor b) Wali Mohammad Low quality a.k.a.: na Nationality: Afghanistan Passport no: na National identification no: na Address: na Listed on: 31 Jan. 2001 ( amended on 3 Sep. 2003, 18 Jul. 2007, 21 Sep. 2007, 13 Feb. 2012, 18 May 2012, 22 Apr. 2013 ) Other information: Taliban Shadow Governor for Logar Province as of late 2012. Believed to be in Afghanistan/Pakistan border area. Belongs to Sahak tribe (Ghilzai). Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click here
+
+
+These data points present in sanctions lists are important points of reference. Investigators can use data points like alias and age or passport number to confirm if the person on the sanctions list is the same as the person in a company register. 
 
 It is relatively straightforward to find out if an individual, vessel, or organisation is subject to financial sanctions. You usually return a match after a quick search of the entity's name or alias on consolidated sanctions lists such as [the Office of Financial Sanctions Implementations](https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets). 
 
-Identifying if an entity is sanctioned becomes harder when shell companies are involved. A company may not show up as sanctioned, but it is 51% owned by another company which is sanctioned. This means both companies are sanctioned. 
 
+Identifying if an entity is sanctioned becomes harder when shell companies are involved. A company may not show up as sanctioned, but it is 51% owned by another company which is sanctioned. This means both companies are sanctioned. 
 
 
 
