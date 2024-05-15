@@ -8,8 +8,6 @@ We often talk about sanctions in the context of efficiency or individual cases. 
 
 We'll explore 4 steps in the research process, from the design of research methods to the collection, analysis, and sharing of intelligence.
 
-
-
 {{% steps %}}
 
 ### Research Design
@@ -113,11 +111,16 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
 
 These data points present in sanctions lists are important points of reference. Investigators can use data points like alias and age or passport number to confirm if the person on the sanctions list is the same as the person in a company register. 
 
+#### Limit of primary sources
+
 It is relatively straightforward to find out if an individual, vessel, or organisation is subject to financial sanctions. You usually return a match after a quick search of the entity's name or alias on consolidated sanctions lists such as [the Office of Financial Sanctions Implementations](https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets). 
 
 
-Identifying if an entity is sanctioned becomes harder when shell companies are involved. A company may not show up as sanctioned, but it is 51% owned by another company which is sanctioned. This means both companies are sanctioned. 
+Identifying if an entity is sanctioned becomes harder when we want to identify associates or entities enabling the sanctioned person or organisation. 
 
+For example, identifying if an entity is sanctioned becomes harder when shell companies are involved. 
+
+A  company may not show up as sanctioned on sanctions lists, but if a sanctioned entity owns 51% of the company then both the company and the sanctioned entity are sanctioned. 
 
 
 <!---Enrichment --->
