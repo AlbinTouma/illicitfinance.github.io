@@ -113,14 +113,43 @@ These data points present in sanctions lists are important points of reference. 
 
 #### Limit of primary sources
 
-It is relatively straightforward to find out if an individual, vessel, or organisation is subject to financial sanctions. You usually return a match after a quick search of the entity's name or alias on consolidated sanctions lists such as [the Office of Financial Sanctions Implementations](https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets). 
+Investigating if an individual, vessel, or organisation is subject to financial sanctions is relatively straightforward. You usually return a match after a quick search on one of the sanctions lists.
 
-
-Identifying if an entity is sanctioned becomes harder when we want to identify associates or entities enabling the sanctioned person or organisation. 
+The job of investigating is harder when we want to identify associates or entities enabling the sanctioned person or organisation. 
 
 For example, identifying if an entity is sanctioned becomes harder when shell companies are involved. 
 
-A  company may not show up as sanctioned on sanctions lists, but if a sanctioned entity owns 51% of the company then both the company and the sanctioned entity are sanctioned. 
+A  company may not show up as sanctioned on sanctions lists, but if a sanctioned entity owns 51% of the company then both the company and the sanctioned entity are sanctioned. This is the OFAC50 rule. 
+
+Sanctions lists are excellent primary sources but investigations require a holistic approach. For this, we turn to other sources. 
+
+
+#### Open Source data
+
+We use open source data as part of investigations to enrich the data we collect from sanctions lists and also to identify associated entities.
+
+Sources commonly used in investigations range from ownership and land registries to leaked documents, mentions in media, and aggreggated data in databases.
+
+An excellent example of how investigators draw on open sources is the [investigation](https://www.thebureauinvestigates.com/stories/2024-05-10/leaked-documents-reveal-abramovichs-ongoing-vitesse-connection/) into Roman Abramovich and his financial dealings with the Dutch football club, Vitesse.
+
+Roman Abramovich was subjected to UK and EU sanctions following Russia's invasion of Ukraine.
+
+By using the Oligarch Files, a cache of leaked data originating from MeritServus, an offshore service provider based in Cyprus, investigators at the Bureau of Investigative Journalism (TBIJ) and the Guardian were able to reveal that Roman Abramovich, who then owned Chelsea football club, was the source of all money used to fund the Dutch football club, Vitesse. 
+
+The Guardian found that Abramovich had covertly funded the 2010 acquisition of Vitesse Arnhem via a network of offshore entities before channelling at least 117 million euros to the club. 
+
+Their [analysis](https://www.thebureauinvestigates.com/stories/2023-03-29/roman-abramovich-bankrolled-major-dutch-club-while-chelsea-owner/) identified 6 companies associated with Abramovich and Vitesse.
+
+<iframe src="https://embed.kumu.io/7839eb07b6212cd1cdbe0acb1267f260#untitled-map" width="100%" height="500px" class='iframe'></iframe>
+
+
+Rules set by the European football confederation hold that "no individual or legal entity must have control or influence over more than one club" and during this time, Vitesse and Chelsea denied any formal link between the clubs even though Abarmovich had significant indirect control of Vitesse.
+
+More broadly, the investigation raises serious questions over Abramovich's ability to avoid UK and EU sanctions and protect his assets with the help of his offshore network. 
+
+### Entity Resolution
+
+
 
 
 <!---Enrichment --->

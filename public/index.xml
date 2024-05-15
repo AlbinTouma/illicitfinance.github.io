@@ -194,11 +194,24 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
 &lt;/blockquote&gt;
 &lt;p&gt;These data points present in sanctions lists are important points of reference. Investigators can use data points like alias and age or passport number to confirm if the person on the sanctions list is the same as the person in a company register.&lt;/p&gt;
 &lt;h4&gt;Limit of primary sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;limit-of-primary-sources&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#limit-of-primary-sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;It is relatively straightforward to find out if an individual, vessel, or organisation is subject to financial sanctions. You usually return a match after a quick search of the entity&amp;rsquo;s name or alias on consolidated sanctions lists such as &lt;a href=&#34;https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Office of Financial Sanctions Implementations&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Identifying if an entity is sanctioned becomes harder when we want to identify associates or entities enabling the sanctioned person or organisation.&lt;/p&gt;
+    &lt;a href=&#34;#limit-of-primary-sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Investigating if an individual, vessel, or organisation is subject to financial sanctions is relatively straightforward. You usually return a match after a quick search on one of the sanctions lists.&lt;/p&gt;
+&lt;p&gt;The job of investigating is harder when we want to identify associates or entities enabling the sanctioned person or organisation.&lt;/p&gt;
 &lt;p&gt;For example, identifying if an entity is sanctioned becomes harder when shell companies are involved.&lt;/p&gt;
-&lt;p&gt;A  company may not show up as sanctioned on sanctions lists, but if a sanctioned entity owns 51% of the company then both the company and the sanctioned entity are sanctioned.&lt;/p&gt;
-&lt;!---Enrichment ---&gt;
+&lt;p&gt;A  company may not show up as sanctioned on sanctions lists, but if a sanctioned entity owns 51% of the company then both the company and the sanctioned entity are sanctioned. This is the OFAC50 rule.&lt;/p&gt;
+&lt;p&gt;Sanctions lists are excellent primary sources but investigations require a holistic approach. For this, we turn to other sources.&lt;/p&gt;
+&lt;h4&gt;Open Source data&lt;span class=&#34;absolute -mt-20&#34; id=&#34;open-source-data&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#open-source-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;We use open source data as part of investigations to enrich the data we collect from sanctions lists and also to identify associated entities.&lt;/p&gt;
+&lt;p&gt;Sources commonly used in investigations range from ownership and land registries to leaked documents, mentions in media, and aggreggated data in databases.&lt;/p&gt;
+&lt;p&gt;An excellent example of how investigators draw on open sources is the &lt;a href=&#34;https://www.thebureauinvestigates.com/stories/2024-05-10/leaked-documents-reveal-abramovichs-ongoing-vitesse-connection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;investigation&lt;/a&gt; into Roman Abramovich and his financial dealings with the Dutch football club, Vitesse.&lt;/p&gt;
+&lt;p&gt;Roman Abramovich was subjected to UK and EU sanctions following Russia&amp;rsquo;s invasion of Ukraine.&lt;/p&gt;
+&lt;p&gt;By using the Oligarch Files, a cache of leaked data originating from MeritServus, an offshore service provider based in Cyprus, investigators at the Bureau of Investigative Journalism (TBIJ) and the Guardian were able to reveal that Roman Abramovich, who then owned Chelsea football club, was the source of all money used to fund the Dutch football club, Vitesse.&lt;/p&gt;
+&lt;p&gt;The Guardian found that Abramovich had covertly funded the 2010 acquisition of Vitesse Arnhem via a network of offshore entities before channelling at least 117 million euros to the club.&lt;/p&gt;
+&lt;p&gt;Their &lt;a href=&#34;https://www.thebureauinvestigates.com/stories/2023-03-29/roman-abramovich-bankrolled-major-dutch-club-while-chelsea-owner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysis&lt;/a&gt; identified 6 companies associated with Abramovich and Vitesse.&lt;/p&gt;
+&lt;iframe src=&#34;https://embed.kumu.io/7839eb07b6212cd1cdbe0acb1267f260#untitled-map&#34; width=&#34;100%&#34; height=&#34;500px&#34; class=&#39;iframe&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;Rules set by the European football confederation hold that &amp;ldquo;no individual or legal entity must have control or influence over more than one club&amp;rdquo; and during this time, Vitesse and Chelsea denied any formal link between the clubs even though Abarmovich had significant indirect control of Vitesse.&lt;/p&gt;
+&lt;p&gt;More broadly, the investigation raises serious questions over Abramovich&amp;rsquo;s ability to avoid UK and EU sanctions and protect his assets with the help of his offshore network.&lt;/p&gt;
+&lt;h3&gt;Entity Resolution&lt;span class=&#34;absolute -mt-20&#34; id=&#34;entity-resolution&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#entity-resolution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;!---Enrichment ---&gt;
 &lt;!---Network Analysis --&gt;
 &lt;/div&gt;
 
