@@ -1,12 +1,12 @@
 ---
-title: Four steps to make any sanctions investigation successful
+title: Three steps to make any sanctions investigation successful
 date: 2024-04-19
 draft: false
 ---
 
 We often talk about sanctions in the context of efficiency or individual cases. Who's who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks. 
 
-Lets explore four common steps in the research process behind investigations into sanctions, from the the design of research methods to the collection and analysis of information.
+Lets explore three common steps in the research process behind investigations into sanctions, from the the design of research methods to the collection and analysis of information.
 
 
 {{% steps %}}
@@ -19,7 +19,7 @@ The firt step in researching who's who in the sanctioned space is knowing how to
 
 An ontology is a formal naming and definition of categories, properties, and relations betweeen concepts, data, or entities.
 
-I recommend using the Follow the Money ontology.
+I recommend using the Follow the Money's ontology. 
 
 **Follow the Money**
 
