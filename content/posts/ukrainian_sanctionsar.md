@@ -1,12 +1,13 @@
 ---
-title: How investigators find out who's who in sanctions investigations
+title: Four steps to make any sanctions investigation successful
 date: 2024-04-19
 draft: false
 ---
 
 We often talk about sanctions in the context of efficiency or individual cases. Who's who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks. 
 
-We'll explore 4 steps in the research process, from the design of research methods to the collection, analysis, and sharing of intelligence.
+Lets explore four common steps in the research process behind investigations into sanctions, from the the design of research methods to the collection and analysis of information.
+
 
 {{% steps %}}
 
@@ -14,11 +15,11 @@ We'll explore 4 steps in the research process, from the design of research metho
 
 #### Ontology
 
-The first step is to settle on an ontology that describes entities and relations between them. We recommend Follow the Money's ontology. 
-
-A big part of researching who's who in the sanctioned space is knowing how to describe entities and relations beetween them. In industry, we describe our domain and its objects in an [ontology](https://en.wikipedia.org/wiki/Ontology). 
+The firt step in researching who's who in the sanctioned space is knowing how to describe entities and relations beetween them. In industry, we describe our domain and its objects in an [ontology](https://en.wikipedia.org/wiki/Ontology). 
 
 An ontology is a formal naming and definition of categories, properties, and relations betweeen concepts, data, or entities.
+
+I recommend using the Follow the Money ontology.
 
 **Follow the Money**
 
@@ -124,9 +125,10 @@ A  company may not show up as sanctioned on sanctions lists, but if a sanctioned
 Sanctions lists are excellent primary sources but investigations require a holistic approach. For this, we turn to other sources. 
 
 
-#### Open Source data
+#### Data Enrichment
 
-We use open source data as part of investigations to enrich the data we collect from sanctions lists and also to identify associated entities.
+We use othersources as part of investigations to enrich the data we collect from sanctions lists. 
+
 
 Sources commonly used in investigations range from ownership and land registries to leaked documents, mentions in media, and aggreggated data in databases.
 
@@ -138,24 +140,48 @@ By using the Oligarch Files, a cache of leaked data originating from MeritServus
 
 The Guardian found that Abramovich had covertly funded the 2010 acquisition of Vitesse Arnhem via a network of offshore entities before channelling at least 117 million euros to the club. 
 
-Their [analysis](https://www.thebureauinvestigates.com/stories/2023-03-29/roman-abramovich-bankrolled-major-dutch-club-while-chelsea-owner/) identified 6 companies associated with Abramovich and Vitesse.
+In this case, their [analysis](https://www.thebureauinvestigates.com/stories/2023-03-29/roman-abramovich-bankrolled-major-dutch-club-while-chelsea-owner/) of the  Oligarch Files helped investigators enrich the data they already had on Abramovich, leading them to identify 6 companies associated with Abramovich and Vitesse.
+
+#### Entity Resolution
+
+In AML and illicit finance, we are always striving toward a source of truth. We enrich our data in the hopes of getting to that truth. 
+
+Enriching data requires that investigators perform entity resolution to ensure that they are correctly linking records together. 
+
+Enity resolution is broadly speaking the process of identifying data records in a source across multiple sources that refer to the same entity. 
+
+You can resolve entities manually, usually by looking at the similarity of their names, age, height, and other data points. As you read these records, you understand if the sources describe the same two peope.
+
+If you're certain the records match, you can merge the records and enrich  your entity.
+
+Manually resolving entities is a time-consuming task, so investigators naturally rely on data science to combine records.
+
+In the world of data, entity resolution or record matching also goes by the name of some of its techniques, like fuzzy matching, merge purge, data matching or idenity resolution.
+
+Through entity resolution, we can identify if two records refer to the same entity and enrich our understanding of that data. Once we have a source of truth, the next step is understanding how to use it. 
+
+### Network Analysis
+
+Data dumps are rarely useful on thier own and the process of collecting, enriching and resolving data should yield a big set of data. 
+
+Network analysis is one of the techniques that investigators can use to extract useful information from big data. 
+
+This useful information teaches us about network risks and broader trends in how illict finance is organised.
+
+In the investigation into Roman Abramovich, investigators identfied 6 companies associated with him and the football club Vitesse.
 
 <iframe src="https://embed.kumu.io/7839eb07b6212cd1cdbe0acb1267f260#untitled-map" width="100%" height="500px" class='iframe'></iframe>
 
 
-Rules set by the European football confederation hold that "no individual or legal entity must have control or influence over more than one club" and during this time, Vitesse and Chelsea denied any formal link between the clubs even though Abarmovich had significant indirect control of Vitesse.
+By drawing the connections between these entities, we learn who's connection to whom and how sanctioned individuals like Roman Abramovich use offshore networks to circumvent sanctions.
 
-More broadly, the investigation raises serious questions over Abramovich's ability to avoid UK and EU sanctions and protect his assets with the help of his offshore network. 
-
-### Entity Resolution
-
-
-
-
-<!---Enrichment --->
-<!---Network Analysis -->
 
 {{% /steps %}}
+
+
+## Recap
+
+Every investigation requires four simple steps to be successful. Before you start, you should decide on a way of first describing objects and relations and then set up a system of classifying these objects. Once ready, start by identifying and collecting information from reliable sources, then, branch out by collecting data from as many relevant sources as possible. Use entity resolution to match records and find useful insights in your data with network analysis. 
 
 
 

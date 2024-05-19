@@ -95,7 +95,7 @@ In exchange, is it not fair to expect business owners to help society ensure tha
     </item>
     
     <item>
-      <title>How investigators find out who&#39;s who in sanctions investigations</title>
+      <title>Four steps to make any sanctions investigation successful</title>
       <link>http://localhost:1313/posts/ukrainian_sanctionsar/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
@@ -104,13 +104,13 @@ In exchange, is it not fair to expect business owners to help society ensure tha
         
         
         &lt;p&gt;We often talk about sanctions in the context of efficiency or individual cases. Who&amp;rsquo;s who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks.&lt;/p&gt;
-&lt;p&gt;We&amp;rsquo;ll explore 4 steps in the research process, from the design of research methods to the collection, analysis, and sharing of intelligence.&lt;/p&gt;
+&lt;p&gt;Lets explore four common steps in the research process behind investigations into sanctions, from the the design of research methods to the collection and analysis of information.&lt;/p&gt;
 &lt;div class=&#34;steps ml-4 mb-12 border-l border-gray-200 pl-6 dark:border-neutral-800 [counter-reset:step]&#34;&gt;
 &lt;h3&gt;Research Design&lt;span class=&#34;absolute -mt-20&#34; id=&#34;research-design&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#research-design&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Ontology&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ontology&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ontology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The first step is to settle on an ontology that describes entities and relations between them. We recommend Follow the Money&amp;rsquo;s ontology.&lt;/p&gt;
-&lt;p&gt;A big part of researching who&amp;rsquo;s who in the sanctioned space is knowing how to describe entities and relations beetween them. In industry, we describe our domain and its objects in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ontology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ontology&lt;/a&gt;.&lt;/p&gt;
+    &lt;a href=&#34;#ontology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The firt step in researching who&amp;rsquo;s who in the sanctioned space is knowing how to describe entities and relations beetween them. In industry, we describe our domain and its objects in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ontology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ontology&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;An ontology is a formal naming and definition of categories, properties, and relations betweeen concepts, data, or entities.&lt;/p&gt;
+&lt;p&gt;I recommend using the Follow the Money ontology.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Follow the Money&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Follow the Money is an ontology that is commonly used in anti-corruption investigations.&lt;/p&gt;
 &lt;p&gt;Their ontology defines entities revelant in such investigations, like people or companies, and helps investigators create a graph of relationships.&lt;/p&gt;
@@ -199,21 +199,33 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
 &lt;p&gt;For example, identifying if an entity is sanctioned becomes harder when shell companies are involved.&lt;/p&gt;
 &lt;p&gt;A  company may not show up as sanctioned on sanctions lists, but if a sanctioned entity owns 51% of the company then both the company and the sanctioned entity are sanctioned. This is the OFAC50 rule.&lt;/p&gt;
 &lt;p&gt;Sanctions lists are excellent primary sources but investigations require a holistic approach. For this, we turn to other sources.&lt;/p&gt;
-&lt;h4&gt;Open Source data&lt;span class=&#34;absolute -mt-20&#34; id=&#34;open-source-data&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#open-source-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;We use open source data as part of investigations to enrich the data we collect from sanctions lists and also to identify associated entities.&lt;/p&gt;
+&lt;h4&gt;Data Enrichment&lt;span class=&#34;absolute -mt-20&#34; id=&#34;data-enrichment&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-enrichment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;We use othersources as part of investigations to enrich the data we collect from sanctions lists.&lt;/p&gt;
 &lt;p&gt;Sources commonly used in investigations range from ownership and land registries to leaked documents, mentions in media, and aggreggated data in databases.&lt;/p&gt;
 &lt;p&gt;An excellent example of how investigators draw on open sources is the &lt;a href=&#34;https://www.thebureauinvestigates.com/stories/2024-05-10/leaked-documents-reveal-abramovichs-ongoing-vitesse-connection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;investigation&lt;/a&gt; into Roman Abramovich and his financial dealings with the Dutch football club, Vitesse.&lt;/p&gt;
 &lt;p&gt;Roman Abramovich was subjected to UK and EU sanctions following Russia&amp;rsquo;s invasion of Ukraine.&lt;/p&gt;
 &lt;p&gt;By using the Oligarch Files, a cache of leaked data originating from MeritServus, an offshore service provider based in Cyprus, investigators at the Bureau of Investigative Journalism (TBIJ) and the Guardian were able to reveal that Roman Abramovich, who then owned Chelsea football club, was the source of all money used to fund the Dutch football club, Vitesse.&lt;/p&gt;
 &lt;p&gt;The Guardian found that Abramovich had covertly funded the 2010 acquisition of Vitesse Arnhem via a network of offshore entities before channelling at least 117 million euros to the club.&lt;/p&gt;
-&lt;p&gt;Their &lt;a href=&#34;https://www.thebureauinvestigates.com/stories/2023-03-29/roman-abramovich-bankrolled-major-dutch-club-while-chelsea-owner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysis&lt;/a&gt; identified 6 companies associated with Abramovich and Vitesse.&lt;/p&gt;
+&lt;p&gt;In this case, their &lt;a href=&#34;https://www.thebureauinvestigates.com/stories/2023-03-29/roman-abramovich-bankrolled-major-dutch-club-while-chelsea-owner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysis&lt;/a&gt; of the  Oligarch Files helped investigators enrich the data they already had on Abramovich, leading them to identify 6 companies associated with Abramovich and Vitesse.&lt;/p&gt;
+&lt;h4&gt;Entity Resolution&lt;span class=&#34;absolute -mt-20&#34; id=&#34;entity-resolution&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#entity-resolution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;In AML and illicit finance, we are always striving toward a source of truth. We enrich our data in the hopes of getting to that truth.&lt;/p&gt;
+&lt;p&gt;Enriching data requires that investigators perform entity resolution to ensure that they are correctly linking records together.&lt;/p&gt;
+&lt;p&gt;Enity resolution is broadly speaking the process of identifying data records in a source across multiple sources that refer to the same entity.&lt;/p&gt;
+&lt;p&gt;You can resolve entities manually, usually by looking at the similarity of their names, age, height, and other data points. As you read these records, you understand if the sources describe the same two peope.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re certain the records match, you can merge the records and enrich  your entity.&lt;/p&gt;
+&lt;p&gt;Manually resolving entities is a time-consuming task, so investigators naturally rely on data science to combine records.&lt;/p&gt;
+&lt;p&gt;In the world of data, entity resolution or record matching also goes by the name of some of its techniques, like fuzzy matching, merge purge, data matching or idenity resolution.&lt;/p&gt;
+&lt;p&gt;Through entity resolution, we can identify if two records refer to the same entity and enrich our understanding of that data. Once we have a source of truth, the next step is understanding how to use it.&lt;/p&gt;
+&lt;h3&gt;Network Analysis&lt;span class=&#34;absolute -mt-20&#34; id=&#34;network-analysis&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#network-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Data dumps are rarely useful on thier own and the process of collecting, enriching and resolving data should yield a big set of data.&lt;/p&gt;
+&lt;p&gt;Network analysis is one of the techniques that investigators can use to extract useful information from big data.&lt;/p&gt;
+&lt;p&gt;This useful information teaches us about network risks and broader trends in how illict finance is organised.&lt;/p&gt;
+&lt;p&gt;In the investigation into Roman Abramovich, investigators identfied 6 companies associated with him and the football club Vitesse.&lt;/p&gt;
 &lt;iframe src=&#34;https://embed.kumu.io/7839eb07b6212cd1cdbe0acb1267f260#untitled-map&#34; width=&#34;100%&#34; height=&#34;500px&#34; class=&#39;iframe&#39;&gt;&lt;/iframe&gt;
-&lt;p&gt;Rules set by the European football confederation hold that &amp;ldquo;no individual or legal entity must have control or influence over more than one club&amp;rdquo; and during this time, Vitesse and Chelsea denied any formal link between the clubs even though Abarmovich had significant indirect control of Vitesse.&lt;/p&gt;
-&lt;p&gt;More broadly, the investigation raises serious questions over Abramovich&amp;rsquo;s ability to avoid UK and EU sanctions and protect his assets with the help of his offshore network.&lt;/p&gt;
-&lt;h3&gt;Entity Resolution&lt;span class=&#34;absolute -mt-20&#34; id=&#34;entity-resolution&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#entity-resolution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;!---Enrichment ---&gt;
-&lt;!---Network Analysis --&gt;
+&lt;p&gt;By drawing the connections between these entities, we learn who&amp;rsquo;s connection to whom and how sanctioned individuals like Roman Abramovich use offshore networks to circumvent sanctions.&lt;/p&gt;
 &lt;/div&gt;
+&lt;h2&gt;Recap&lt;span class=&#34;absolute -mt-20&#34; id=&#34;recap&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recap&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Every investigation requires four simple steps to be successful. Before you start, you should decide on a way of first describing objects and relations and then set up a system of classifying these objects. Once ready, start by identifying and collecting information from reliable sources, then, branch out by collecting data from as many relevant sources as possible. Use entity resolution to match records and find useful insights in your data with network analysis.&lt;/p&gt;
 
       </description>
     </item>
