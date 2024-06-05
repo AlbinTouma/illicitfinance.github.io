@@ -231,7 +231,7 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
     </item>
     
     <item>
-      <title>How we built Groupint to identify who&#39;s talking to whom on Telegram</title>
+      <title>Groupint and unmasking networks on Telegram</title>
       <link>http://localhost:1313/posts/groupint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -241,7 +241,8 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
         
         &lt;p&gt;In recent years, Telegram has become popular for threat actors to engage in illicit activity. These actors range from simple fraudsters to cybercriminals and Russian military and intelligence personnel.&lt;/p&gt;
 &lt;p&gt;Telegram is popular because of its end-to-end encrypted messaging, yet, the platform is not as anonymous as users believe. In fact, it&amp;rsquo;s a rich repository of information.&lt;/p&gt;
-&lt;p&gt;Groupint is a recent OSINT tool that enables investigators to identify networks on Telegram. I helped develop this tool as part of the R&amp;amp;D team at OSINT for Ukraine and in this post, we&amp;rsquo;ll explore how we built an app that lets users see who&amp;rsquo;s talking to whom on Telegram.&lt;/p&gt;
+&lt;p&gt;Investigators can use this information to identify networks on Telegram and connect who&amp;rsquo;s talking to whom.&lt;/p&gt;
+&lt;p&gt;Groupint is a recent OSINT tool investigators can use to invesigate networks on Telegram. I helped develop this tool as part of the R&amp;amp;D team at OSINT for Ukraine and in this post, we&amp;rsquo;ll explore how we built an app that lets users see who&amp;rsquo;s talking to whom on Telegram.&lt;/p&gt;
 &lt;h2&gt;What is Groupint?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-groupint&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#what-is-groupint&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Groupint is an app that enables investigators to scrape data from Telegram groups and connect users through an intuitive and visually appealing graph and user interface.&lt;/p&gt;
 &lt;p&gt;This app is an open-source tool developed by OSINT for Ukraine, an independent non-profit foundation dedicated to using open-source intellgience to investigate war crimes in relation to the Russo-Ukrainian War.&lt;/p&gt;
