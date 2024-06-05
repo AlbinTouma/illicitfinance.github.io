@@ -1,9 +1,9 @@
 ---
-title: Three steps to make any sanctions investigation successful
+title: Three research steps in sanctions
 date: 2024-04-19
 draft: false
 ---
-
+monthyl
 We often talk about sanctions in the context of efficiency or individual cases. Who's who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks. 
 
 Lets explore three common steps in the research process behind investigations into sanctions, from the the design of research methods to the collection and analysis of information.

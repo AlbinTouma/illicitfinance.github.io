@@ -42,3 +42,8 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
+
+
+services:
+  googleAnalytics:
+    ID: G-8GNPBZY23L

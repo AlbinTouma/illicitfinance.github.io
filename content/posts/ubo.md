@@ -1,5 +1,5 @@
 ---
-title: 'What evidence is there for public ownership registries?' 
+title: 'What is the evidence for public ownership registries?' 
 date: 2024-04-19T18:25:47+03:00
 tags: ['Policy review']
 author: 'Albin Touma'

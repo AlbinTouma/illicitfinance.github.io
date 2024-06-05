@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>What evidence is there for public ownership registries?</title>
+      <title>What is the evidence for public ownership registries?</title>
       <link>http://localhost:1313/posts/ubo/</link>
       <pubDate>Fri, 19 Apr 2024 18:25:47 +0300</pubDate>
       
@@ -95,7 +95,7 @@ In exchange, is it not fair to expect business owners to help society ensure tha
     </item>
     
     <item>
-      <title>Three steps to make any sanctions investigation successful</title>
+      <title>Three research steps in sanctions</title>
       <link>http://localhost:1313/posts/ukrainian_sanctionsar/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
@@ -103,7 +103,8 @@ In exchange, is it not fair to expect business owners to help society ensure tha
       <description>
         
         
-        &lt;p&gt;We often talk about sanctions in the context of efficiency or individual cases. Who&amp;rsquo;s who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks.&lt;/p&gt;
+        &lt;p&gt;monthyl
+We often talk about sanctions in the context of efficiency or individual cases. Who&amp;rsquo;s who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks.&lt;/p&gt;
 &lt;p&gt;Lets explore three common steps in the research process behind investigations into sanctions, from the the design of research methods to the collection and analysis of information.&lt;/p&gt;
 &lt;div class=&#34;steps ml-4 mb-12 border-l border-gray-200 pl-6 dark:border-neutral-800 [counter-reset:step]&#34;&gt;
 &lt;h3&gt;Research Design&lt;span class=&#34;absolute -mt-20&#34; id=&#34;research-design&#34;&gt;&lt;/span&gt;
@@ -227,6 +228,67 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
 &lt;h2&gt;Recap&lt;span class=&#34;absolute -mt-20&#34; id=&#34;recap&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#recap&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Every investigation requires four simple steps to be successful. Before you start, you should decide on a way of first describing objects and relations and then set up a system of classifying these objects. Once ready, start by identifying and collecting information from reliable sources, then, branch out by collecting data from as many relevant sources as possible. Use entity resolution to match records and find useful insights in your data with network analysis.&lt;/p&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>How we built Groupint to identify who&#39;s talking to whom on Telegram</title>
+      <link>http://localhost:1313/posts/defining_illicit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/defining_illicit/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In recent years, Telegram has become popular for threat actors to engage in illicit activity. These actors range from simple fraudsters to cybercriminals and Russian military and intelligence personnel.&lt;/p&gt;
+&lt;p&gt;Telegram is popular because of its end-to-end encrypted messaging, yet, the platform is not as anonymous as users believe. In fact, it&amp;rsquo;s a rich repository of information.&lt;/p&gt;
+&lt;p&gt;Groupint is a recent OSINT tool that enables investigators to identify networks on Telegram. I helped develop this tool as part of the R&amp;amp;D team at OSINT for Ukraine and in this post, we&amp;rsquo;ll explore how we built an app that lets users see who&amp;rsquo;s talking to whom on Telegram.&lt;/p&gt;
+&lt;h2&gt;What is Groupint?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-groupint&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-groupint&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Groupint is an app that enables investigators to scrape data from Telegram groups and connect users through an intuitive and visually appealing graph and user interface.&lt;/p&gt;
+&lt;p&gt;This app is an open-source tool developed by OSINT for Ukraine, an independent non-profit foundation dedicated to using open-source intellgience to investigate war crimes in relation to the Russo-Ukrainian War.&lt;/p&gt;
+&lt;p&gt;Groupint enables investigators to analyse networks within specific Telegram communities by scraping users and connecting who&amp;rsquo;s who in a graph database.&lt;/p&gt;
+&lt;p&gt;To identify all the users and who they&amp;rsquo;re talking to, simply input the name of a group that you&amp;rsquo;re interested in and the app extracts all of the users and the groups that they are part of.&lt;/p&gt;
+&lt;p&gt;Groupint enables network analysis and opens up a host of opportunities. Investigators can identify threat actors and their networks. They can also map trends in how illicit finance and threat actors interact with social media.&lt;/p&gt;
+&lt;p&gt;You might wonder how it is possible to scrape and connect users between groups in an end-to-end encrypted app that supposedly provides you with unprecedented anonymity.&lt;/p&gt;
+&lt;p&gt;The answer is simple; Telegram data is routinely sold in Russia.&lt;/p&gt;
+&lt;h2&gt;Telesint&lt;span class=&#34;absolute -mt-20&#34; id=&#34;telesint&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#telesint&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Groupint is powered by &lt;a href=&#34;https://telesint.dev/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telesint&lt;/a&gt;, a database of over 3 million open Telegram chats and tens of thousands of private chats. Their bot is designed to search for people in open and closed Telegram groups.&lt;/p&gt;
+&lt;p&gt;Though Telesint doesn&amp;rsquo;t collect &amp;ldquo;personal data&amp;rdquo;, the bot collects enough data points to link users from different groups.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;id&lt;/code&gt; - user&amp;rsquo;s unique id&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;label&lt;/code&gt;- user&amp;rsquo;s alias&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;group&lt;/code&gt; - a list of Telegram groups that user is a member of&lt;/p&gt;
+&lt;details class=&#34;last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group&#34; &gt;
+  &lt;summary class=&#34;flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[&#39;&#39;] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;text-lg&#34;&gt;Click me to reveal example of user data&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;p-2 overflow-hidden&#34;&gt;
+    &lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;#34;data&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;nt&#34;&gt;&amp;#34;id&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;94252564&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;nt&#34;&gt;&amp;#34;label&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;andrey600&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;nt&#34;&gt;&amp;#34;username&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;andrey600&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;nt&#34;&gt;&amp;#34;group&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;s2&#34;&gt;&amp;#34;chat_massovka&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;s2&#34;&gt;&amp;#34;silovikigroup&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;s2&#34;&gt;&amp;#34;mesles&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;s2&#34;&gt;&amp;#34;komsomolka_ru&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2&gt;Telethon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;telethon&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#telethon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
       </description>
     </item>
     
