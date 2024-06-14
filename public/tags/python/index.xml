@@ -1,12 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illicit Finance – Python</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>http://localhost:34151/tags/python/</link>
     <description>Recent content in Python on Illicit Finance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 18:25:47 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:34151/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,16 +16,245 @@
     
     
     <item>
-      <title>Unmasking networks on Telegram with Groupint</title>
-      <link>http://localhost:1313/posts/groupint/</link>
+      <title>What is the evidence for public ownership registries?</title>
+      <link>http://localhost:34151/posts/ubo/</link>
+      <pubDate>Fri, 19 Apr 2024 18:25:47 +0300</pubDate>
+      
+      <guid>http://localhost:34151/posts/ubo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;While in New York, I asked a friend about his business in Florida and he explained to me that he is the owner through his Scandinavian business. Tracing his ownership structure would be time consuming and the task is made harder by the decision of the Court of Justice of the European Union (CJEU) to annul public access to ownership registries.&lt;/p&gt;
+&lt;p&gt;The CJEU ruled that public access contravenes the right to privacy in the EU Charter of Fundamental Rights. Implicit is the claim that evidence is weak to show that public ownership registries prevents crime. Or as my friend put it, the argument for public ownership data is a rehash of: &lt;it&gt;if you have nothing to hide you have nothing to fear&amp;quot;&lt;/it&gt;.&lt;/p&gt;
+&lt;p&gt;What the court considers &amp;ldquo;strong&amp;rdquo; evidence is unclear, so let&amp;rsquo;s start with the strongest case for public access to ownership registries, namely the practice of fighting illicit finance.&lt;/p&gt;
+&lt;h2&gt;The Panama Papers&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-panama-papers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-panama-papers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The &lt;a href=&#34;https://www.icij.org/investigations/panama-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Panama Papers&lt;/a&gt; is the most public exposure of the world&amp;rsquo;s most powerful people and their financial secrets and the impact that those leaks have had serves as an excellent example of the positive impact that public ownership data has.&lt;/p&gt;
+&lt;p&gt;More than 11.5 million records exposed how politicians and criminals use the rogue offshore finance industry to launder money and avoid taxes.&lt;/p&gt;
+&lt;p&gt;The leaks implicated &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_people_named_in_the_Panama_Papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;150 politicians from 50 countries&lt;/a&gt; and had serious political fallout as Iceland&amp;rsquo;s Prime Minister, &lt;a href=&#34;https://www.theguardian.com/world/2016/apr/05/iceland-prime-minister-resigns-over-panama-papers-revelations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sigmundur Davio Gunnlaugsson&lt;/a&gt;, was forced to resign from his office amid outrage that his family had sheltered money offshore.&lt;/p&gt;
+&lt;p&gt;In the wake of the revelations that caused snap elections in Iceland, the Guardian used the offshore leaks to shed light on the trail between Vladimir Putin and an offshore network of assets &lt;a href=&#34;https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;worth $2bn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Investigative journalists and their hard work not only helped close Mossack Fonseca, the infamous Panamanian law firm and target of the leak, but has also led to the prosecution of the firm&amp;rsquo;s owners, Lauria Paz and Ramon Fonseca who are defendants in a case in Panama where they are being tried for &lt;a href=&#34;https://www.organojudicial.gob.pa/noticias/fijan-nueva-fecha-de-audiencia-para-celebrar-juicio-en-caso-conocido-como-panama-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;crimes against public economic order&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;How Lauria Pax and Ramon Fronseca operated Mossack Fronseca and how their crimes impacted ordinary people inspired &amp;ldquo;The Laundromat&amp;rdquo;, a film starring Meryl Streep and Gary Oldman.&lt;/p&gt;
+&lt;style&gt;
+.iframe {margin-top: 50px; margin-bottom: 50px}
+&lt;/style&gt; 
+&lt;iframe class=&#39;iframe&#39; width=&#34;100%&#34; height=&#34;500px&#34; src=&#34;https://www.youtube.com/embed/wuBRcfe4bSo?si=5R4jvk5i5q7k0q72&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;The Panama Papers show that transparent ownership is vital to fighting corruption and that when ownership structures are made public, those implicit in illicit finance face legal consequences.&lt;/p&gt;
+&lt;p&gt;Hold on - is the Panama Papers really a strong case for opening ownership registries? After all, the trenche of 11 million documents are a leak of sensitive information from a shadowy organisation and not a register where ordinary people set up their business.&lt;/p&gt;
+&lt;p&gt;The whistleblower nature of the Panama Papers is a perfectly valid objection, so let&amp;rsquo;s look at two investigations that used real ownership registries.&lt;/p&gt;
+&lt;h2&gt;The Open Lux Investigation&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-open-lux-investigation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-open-lux-investigation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Transparency International has documented several cases where public access to beneficial ownership registries enabled journalists and activists to uncover corruption and money laundering. One of these cases is the &lt;a href=&#34;.https://www.occrp.org/en/openlux/&#34; &gt;OCCRP&amp;rsquo;s Open Lux Investigation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the Open Lux investigation, journalists analysed beneficial owners registered in Luxembourg and found dozens of foreign citizens linked to corruption, embezzlement, and organised crime and, as &lt;a href=&#34;https://knowledgehub.transparency.org/assets/uploads/helpdesk/The-uses-and-impact-of-beneficial-ownership-information_2023.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transparency International&lt;/a&gt; points out:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lsquo;What sets the Open Lux Investigation apart from the Panama Papers is that, &lt;strong&gt;for the first time, journalists did not have to rely on leaks and, instead, relied on publically available data&lt;/strong&gt; to uncover hidden owners using Luxembourg companies to own assets and open bank accounts.&amp;rsquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The case of the Open Lux Investigation is a clear example of how actors other than law enforcement agencies are crucial to combating corruption and it is a role that the Court of Justice of the European Union recognise in &lt;a href=&#34;https://curia.europa.eu/juris/document/document.jsf?text=&amp;amp;docid=268059&amp;amp;pageIndex=0&amp;amp;doclang=EN&amp;amp;mode=lst&amp;amp;dir=&amp;amp;occ=first&amp;amp;part=1&amp;amp;cid=2425197&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;their ruling&lt;/a&gt; against public access to ownership registries.&lt;/p&gt;
+&lt;h2&gt;Global Witness&lt;span class=&#34;absolute -mt-20&#34; id=&#34;global-witness&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#global-witness&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In addition to identifying crime, actors are able to improve ownership data when that data is publically available. &lt;a href=&#34;https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/anonymous-company-owners/companies-we-keep/#chapter-0/section-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Witness&lt;/a&gt;, working with a group of volunteer data scientists at DataKind UK, analysed the UK&amp;rsquo;s beneficial ownership registries and successfully identified loopholes, information gaps and suspicous activity.&lt;/p&gt;
+&lt;p&gt;They found that most companies registering their benenficial owners at the Persons of Significant Control registry in the UK, is straightforward, with an average of 1.13 beneficial owners for each UK company.&lt;/p&gt;
+&lt;p&gt;Hundreds of thousands of these companies file highly suspicious entries that would never have been found were it not for the open data nature of the register.&lt;/p&gt;
+&lt;p&gt;Global Watch found common methods for avoiding disclosure of a company&amp;rsquo;s real owners such as disclosing an ineligible foreign company as the beneficial owner, filing a statement that the company has no beneficial owners, or creating circular ownership structures where a company control themselves.&lt;/p&gt;
+&lt;p&gt;Of the companies with a foreign owner, 10,000 declare a foreign company as their beneficial owner and of these 72% are in a secrecy jurisdiction.&lt;/p&gt;
+&lt;p&gt;Their analysis resulted in a red flagging system to uncover high risk entries and recommendations to the UK government demonstrating the benefit of open ownership registries.&lt;/p&gt;
+&lt;p&gt;Public ownership data helps civl society, investigative journalists and law enforcement scrutinise data and combine it with other datasets, increasing the likelihood of spotting criminal activity.&lt;/p&gt;
+&lt;h2&gt;Is privacy an absolute right?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;is-privacy-an-absolute-right&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#is-privacy-an-absolute-right&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Having established that open ownership data, in practice, helps us prevent crime, let&amp;rsquo;s scrutinise the right to privacy.&lt;/p&gt;
+&lt;p&gt;Anxiety about data protection is understandable, especially in consideration of companies like Facebook and Cambridge Analytica known for their exploitation of personal data.&lt;/p&gt;
+&lt;p&gt;I understand why my friend sides with the CEUJ and I think he made a good point when he said that open ownership data sounds like &amp;ldquo;if you have nothing to hide, you have nothing to fear.&#39;&lt;/p&gt;
+&lt;p&gt;The right to privacy is essential to our autonomy and it is important to respect privacy.&lt;/p&gt;
+&lt;p&gt;However, publishing information about who owns companies is different in one important respect, namely that as a business owner you are in the public sphere. As OpenOwnership&amp;rsquo;s Head of Policy, &lt;a href=&#34;https://www.openownership.org/en/blog/who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zosia Sztykowski&lt;/a&gt; explains:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Publishing information about who owns companies is fundamentally different. This is about chaning the role that companies play in society. We often forget that the legal form that we call a company can&amp;rsquo;t exist without the state, and agreements between states. Therefore, they have the right, and even the responsibibility to ensure that they serve a social good. Open ownership data can do just that. All while also providing desirable incentives for legitimate businesses, including reducing the risk of being exposed to bad actors and supporting the stability of economies globally.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Privacy is a critical right, but it isn&amp;rsquo;t absolute.&lt;/p&gt;
+&lt;p&gt;Having a substantial ownership stake in a company gives that individual access to a range of benefits, including protection from personal liability.&lt;br&gt;
+In exchange, is it not fair to expect business owners to help society ensure that companies are used for thier intended purposes?&lt;/p&gt;
+&lt;p&gt;Opening a company is easy and benefits society as a whole and one unintened consequence of this is that corporations have become easy tools for criminals.&lt;/p&gt;
+&lt;p&gt;As Zosia Stykowski explains, &amp;rsquo;there is a balance here to be struck between personal freedoms and the responsibility to create a fairer society.&#39;&lt;/p&gt;
+&lt;p&gt;There is also another important question when we invoke privacy and that is, who exactly are we trying to protect? Closing registries might protect more people with illegitimate intentions than those with legitimate intentions.&lt;/p&gt;
+&lt;p&gt;If the practice of investigating illicit finance teach us anything, it is that criminals thrive in secrecy. The decision to close access to ownership registries has impacted already scarce ownership data, forcing investigators to rely on leaked data.&lt;/p&gt;
+&lt;p&gt;The case for &amp;ldquo;protecting privacy&amp;rdquo; tries to safeguard against protecting the wrong people by assuming that those with &amp;ldquo;legitimate interest&amp;rdquo; have the right to access ownership registries. While well intended, this presumption has had negative consequences due to the lack of an EU-wide definition of &amp;ldquo;legitimate&amp;rdquo; intentions or circumstances&amp;rdquo;.&lt;/p&gt;
+&lt;h2&gt;Legitimate Interest&lt;span class=&#34;absolute -mt-20&#34; id=&#34;legitimate-interest&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#legitimate-interest&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The CJEU ruling presumes that journalists and civil society organisations engaged in the prevention of money laundering have a legitimate interest and should be granted access to beneficial ownership information.&lt;/p&gt;
+&lt;p&gt;The absence of an EU-wide definition of &amp;ldquo;legitimate interest&amp;rdquo; has has effectively squashed the right of individuals and organisations with a legitimate interest to use the registers.&lt;/p&gt;
+&lt;p&gt;Journalists and civil society are unable to access 13 of 27 beneficial ownership registers in the EU, and after the court ruling, eight countries suspended public access to their registers.&lt;/p&gt;
+&lt;p&gt;Transparency International&amp;rsquo;s &lt;a href=&#34;https://www.transparency.org/en/blog/eu-court-ruling-on-beneficial-ownership-registers-legitimate-accesshttps://www.transparency.org/en/blog/eu-court-ruling-on-beneficial-ownership-registers-legitimate-access&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;map&lt;/a&gt; is a useful resource to trace the impact of the ruling:&lt;/p&gt;
+&lt;style&gt;
+.ICJ_impact {margin-top: 40px; margin-bottom: 50px}
+&lt;/style&gt; 
+ &lt;iframe class=&#34;ICJ_impact&#34; width=&#34;100%&#34; src=&#34;https://e.infogram.com/_/tHd7YTUogfgl5qIYJlZU?parent_url=https%3A%2F%2Fwww.transparency.org%2Fen%2Fblog%2Feu-court-ruling-on-beneficial-ownership-registers-legitimate-access&amp;src=embed#async_embed&#34;
+&#34; width=&#34;700&#34; height=&#34;600&#34; frameborder=&#34;0&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; aria-hidden=&#34;false&#34; tabindex=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Countries like Cyprus, Malta and the Netherlands have denied access, even if journalists and civil society demonstrate their legitimate access. Other countries require legitimate interest must be demonstrated on a case-by-case basis.&lt;/p&gt;
+&lt;p&gt;Ireland&amp;rsquo;s approach is highly restrictive since you have to demonstrate that the beneficial owner under investigation is connected or convinced of an offence involving money laundering or terrorist financing.&lt;/p&gt;
+&lt;p&gt;If the goal of providing access to journalists and civil society is to help detect offences, the Irish approach seems to contravene this goal.&lt;/p&gt;
+&lt;p&gt;In trying to strike a balance between privacy and legitimate intentions, the CJEU has tipped the balance too far, which frustrates journalists and civil society investigations that yield tangible results.&lt;/p&gt;
+&lt;h2&gt;What the evidence tells us to do&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-the-evidence-tells-us-to-do&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-the-evidence-tells-us-to-do&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Evidence from practice shows that open access is crucial to improving the quality of data in beneficial ownership registries and that public access prevents crime itself.&lt;/p&gt;
+&lt;p&gt;It is also clear that some members states will interpret the CJEU&amp;rsquo;s ruling conservatively and contravene the spirit of the CJEU ruling, namely to protect both privacy and civil society&amp;rsquo;s legitimate interest.&lt;/p&gt;
+&lt;p&gt;What is required are EU rules that leave no space for discrimination against civil society and public watchdogs. Those rules should, instead, enable those who work with the combating of illicit finance to access crucial ownership data.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Three steps in sanctions research</title>
+      <link>http://localhost:34151/posts/three_steps_sanctions/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34151/posts/three_steps_sanctions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;We often talk about sanctions in the context of efficiency or individual cases. Who&amp;rsquo;s who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks.&lt;/p&gt;
+&lt;p&gt;Lets explore three common steps in the research process behind investigations in the space of anti-money laundering solutions, from the the design of research methods to the collection and analysis of information.&lt;/p&gt;
+&lt;div class=&#34;steps ml-4 mb-12 border-l border-gray-200 pl-6 dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Research Design&lt;span class=&#34;absolute -mt-20&#34; id=&#34;research-design&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#research-design&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Ontology&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ontology&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ontology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The firt step in researching who&amp;rsquo;s who in the sanctioned space is knowing how to describe entities and relations beetween them. In industry, we describe our domain and its objects in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ontology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ontology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;An ontology is a formal naming and definition of categories, properties, and relations betweeen concepts, data, or entities.&lt;/p&gt;
+&lt;p&gt;I recommend using the Follow the Money&amp;rsquo;s ontology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Follow the Money&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Follow the Money is an ontology that is commonly used in anti-corruption investigations.&lt;/p&gt;
+&lt;p&gt;Their ontology defines entities revelant in such investigations, like people or companies, and helps investigators create a graph of relationships.&lt;/p&gt;
+&lt;p&gt;One of the most common tasks for an investigative reporter is to work out if one thing is the same as another. Is the person who owns a sanctioned company the same guy who is a mayor in my city?&lt;/p&gt;
+&lt;p&gt;Many facts might provide hints that allow us to establish if he is &amp;ldquo;our guy&amp;rdquo;. Do the individuals have the same name, date of birth, nationality, passport number? Do we know about links to other individuals or companies in both data sets?&lt;/p&gt;
+&lt;p&gt;When you have a clearly defined ontology, you can turn representations of objects and events into complex data and compile and cross-reference these hints.&lt;/p&gt;
+&lt;p&gt;The Follow the Money ontology consists of schemata ie object types that exist as an inheritance hieracy, rooted in things and events.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things&lt;/strong&gt; describe real-world objects like &lt;code&gt;people&lt;/code&gt;, &lt;code&gt;Companies&lt;/code&gt;, &lt;code&gt;Assets&lt;/code&gt;, &lt;code&gt;Court Cases&lt;/code&gt;. You can think of things as entities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intervals&lt;/strong&gt; are &lt;code&gt;business interests&lt;/code&gt;, &lt;code&gt;court cases&lt;/code&gt;, &lt;code&gt;sanctions&lt;/code&gt;, and &lt;code&gt;transactions&lt;/code&gt; and are useful for linking entities together, possibly over time.&lt;/p&gt;
+&lt;p&gt;Below is an interactive graph view of FMT ontology.&lt;/p&gt;
+&lt;iframe class=&#34;iframe&#34; src=&#34;https://service.tib.eu/webvowl/#iri=https://alephdata.github.io/followthemoney/ns/ftm.xml&#34; width=&#34;500px&#34; height=&#34;500px&#34; width=&#34;100%&#34; title=&#34;Interactive Schema of FMT ontology&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Once you have an ontology that structures your domain and its objects and relations, you can build a taxonomy to describe and group your information.&lt;/p&gt;
+&lt;h4&gt;Build a taxonomy&lt;span class=&#34;absolute -mt-20&#34; id=&#34;build-a-taxonomy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#build-a-taxonomy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;While an ontology is a formal representation of knoweldge that defines concepts and relationships within a domain in a structured way, a taxonomy concerns the classification of entities based on their characteristics.&lt;/p&gt;
+&lt;p&gt;Taxonomies are used to group types of entities into categories.&lt;/p&gt;
+&lt;p&gt;For example, when we talk about associations and relationships in the sanctions space, we need ways of describing the type of entity or relationship.&lt;/p&gt;
+&lt;p&gt;An associated entity could be an entity type: person, organisation, or vessel. If we know that our entity is a person, we can class his or her relationship to the sanctioned entity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Taxonomy of relationships&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Relationship&lt;/th&gt;
+&lt;th&gt;Definition&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Employee&lt;/td&gt;
+&lt;td&gt;The associated person is employed by the sanctioned individual&lt;/td&gt;
+&lt;td&gt;A nuclear engineer working for sanctioned company&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Owned or controlled by&lt;/td&gt;
+&lt;td&gt;The associated organisation is owned or controlled by the entity it is connects with&lt;/td&gt;
+&lt;td&gt;OO NOVATEK-PERM is a subsidiary that is owned by sanctioned OAO NOVATEK&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Family member&lt;/td&gt;
+&lt;td&gt;An associate is a spouse, uncle, aunt, child, parent of sanctioned person&lt;/td&gt;
+&lt;td&gt;Asma al-Assad is the spoise od Bashar al-Assad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Having a taxonomy is crucial to investigations. A good taxonomy lets investigators describe and filter the information they&amp;rsquo;re collecting.&lt;/p&gt;
+&lt;h3&gt;Collect data&lt;span class=&#34;absolute -mt-20&#34; id=&#34;collect-data&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#collect-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Global sanctions regimes vary as some countries implement and enforce the sanctions of international organisations such as the EU and the UN while others develop their own sanctions programs with their own sanctions lists.&lt;/p&gt;
+&lt;p&gt;The first step in researching sanctioned entities is knowing which ones appear on an official sanctions list.&lt;/p&gt;
+&lt;h4&gt;Key sanctions lists&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-sanctions-lists&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-sanctions-lists&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Government and finanical authorities maintain targeted sanctions lists. These lists are often available online and the lists evolve quickly.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;UN sanctions list&lt;/strong&gt; is also known as the &lt;a href=&#34;https://www.un.org/securitycouncil/content/un-sc-consolidated-list&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNSC Consolidated List&lt;/a&gt;. It consists of one list of individual targets and one list of entities and group targets. UN sanctions are imposed by UN security council resolutions when the council determines a country is in breach of international law.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;US sanctions&lt;/strong&gt; are the most influential global sanctions regime and consists of multiple sanctions lists. The Office of Foreign Assets Control, OFAC, maintains its primary sanctions lists.
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://sanctionslist.ofac.treas.gov/Home/SdnList&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Specially Designated Nationals (SDN)&lt;/a&gt; list sanctions individuals and companies.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Sanctions List&lt;/a&gt; contains sanctions information not included in the SDN list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UK sanctions&lt;/strong&gt; are enforced by the Office of Financial Sanctions Implementations (OFSI) and Her Majesty&amp;rsquo;s Treasury (HTM). Accordingly, UK firms must screen against UK Sanctions List.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Australia sanctions&lt;/strong&gt; are implemented by the Australian Sanctions Office (ASO) and the Department of Foriegn Affairs and Trade (DFAT). These two deparments implement Australia&amp;rsquo;s sanctions regime and firms must screen against Consolidated List of sanctions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canada sanctions&lt;/strong&gt; are implemented under the Special Economic Measures Act (SEMA) and the Justice for Victims of Corrupt Foreign Officials Act (JVCFO). Canadian sanctions are on the [Consolidated Canadian Autonomous Sanctions List].&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Japan sanctions&lt;/strong&gt; are issued under the authority of the Foreign Exchange and Foreign Trade Act (FEFTA) and implemented by the Ministry of Economy, Trade, and Industry and the Ministry of Finance. Japan works with the UN, the US, and the EU in compiling its sanctions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;China sanctions&lt;/strong&gt; are issued by the Chinese Ministry of Foreign Affairs and, since 2020, China&amp;rsquo;s Ministry of Commerce has developed new sanctions regulations designed as a response to Western sanctions. In China, there is the Unreliable Entity List (UEL) and rules the Anti-Foreign Sanctions Law and the Blocking Rules.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Data in key sanctions lists&lt;span class=&#34;absolute -mt-20&#34; id=&#34;data-in-key-sanctions-lists&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-in-key-sanctions-lists&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Sanctions lists are useful primary sources. They help investigators identify who&amp;rsquo;s who in the sanctions space and serve as an excellent stepping stone to identifying associates and enablers of sanctioned entities.&lt;/p&gt;
+&lt;p&gt;Common information about sanctioned entities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;name&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;alias&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nationality&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;passport number&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;country of birth&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;reason for being sanctioned&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sanctions lists are usually strucuted xml, csv or html format, but can come as unstructured pdfs that require manual extraction. Below is an extract from the UNSC Consolidated List.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;iTAi.007 Name: 1: ABDUL LATIF 2: MANSUR 3: na 4: na
+Name (original script): عبد اللطيف منصور
+Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB: Approximately 1968 POB: Zurmat District, Paktia Province, Afghanistan Good quality a.k.a.: a) Abdul Latif Mansoor b) Wali Mohammad Low quality a.k.a.: na Nationality: Afghanistan Passport no: na National identification no: na Address: na Listed on: 31 Jan. 2001 ( amended on 3 Sep. 2003, 18 Jul. 2007, 21 Sep. 2007, 13 Feb. 2012, 18 May 2012, 22 Apr. 2013 ) Other information: Taliban Shadow Governor for Logar Province as of late 2012. Believed to be in Afghanistan/Pakistan border area. Belongs to Sahak tribe (Ghilzai). Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click here&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;These data points present in sanctions lists are important points of reference. Investigators can use data points like alias and age or passport number to confirm if the person on the sanctions list is the same as the person in a company register.&lt;/p&gt;
+&lt;h4&gt;Limit of primary sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;limit-of-primary-sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#limit-of-primary-sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Investigating if an individual, vessel, or organisation is subject to financial sanctions is relatively straightforward. You usually return a match after a quick search on one of the sanctions lists.&lt;/p&gt;
+&lt;p&gt;The job of investigating is harder when we want to identify associates or entities enabling the sanctioned person or organisation.&lt;/p&gt;
+&lt;p&gt;For example, identifying if an entity is sanctioned becomes harder when shell companies are involved.&lt;/p&gt;
+&lt;p&gt;A  company may not show up as sanctioned on sanctions lists, but if a sanctioned entity owns 51% of the company then both the company and the sanctioned entity are sanctioned. This is the OFAC50 rule.&lt;/p&gt;
+&lt;p&gt;Sanctions lists are excellent primary sources but investigations require a holistic approach. For this, we turn to other sources.&lt;/p&gt;
+&lt;h4&gt;Data Enrichment&lt;span class=&#34;absolute -mt-20&#34; id=&#34;data-enrichment&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-enrichment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;We use othersources as part of investigations to enrich the data we collect from sanctions lists.&lt;/p&gt;
+&lt;p&gt;Sources commonly used in investigations range from ownership and land registries to leaked documents, mentions in media, and aggreggated data in databases.&lt;/p&gt;
+&lt;p&gt;An excellent example of how investigators draw on open sources is the &lt;a href=&#34;https://www.thebureauinvestigates.com/stories/2024-05-10/leaked-documents-reveal-abramovichs-ongoing-vitesse-connection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;investigation&lt;/a&gt; into Roman Abramovich and his financial dealings with the Dutch football club, Vitesse.&lt;/p&gt;
+&lt;p&gt;Roman Abramovich was subjected to UK and EU sanctions following Russia&amp;rsquo;s invasion of Ukraine.&lt;/p&gt;
+&lt;p&gt;By using the Oligarch Files, a cache of leaked data originating from MeritServus, an offshore service provider based in Cyprus, investigators at the Bureau of Investigative Journalism (TBIJ) and the Guardian were able to reveal that Roman Abramovich, who then owned Chelsea football club, was the source of all money used to fund the Dutch football club, Vitesse.&lt;/p&gt;
+&lt;p&gt;The Guardian found that Abramovich had covertly funded the 2010 acquisition of Vitesse Arnhem via a network of offshore entities before channelling at least 117 million euros to the club.&lt;/p&gt;
+&lt;p&gt;In this case, their &lt;a href=&#34;https://www.thebureauinvestigates.com/stories/2023-03-29/roman-abramovich-bankrolled-major-dutch-club-while-chelsea-owner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysis&lt;/a&gt; of the  Oligarch Files helped investigators enrich the data they already had on Abramovich, leading them to identify 6 companies associated with Abramovich and Vitesse.&lt;/p&gt;
+&lt;h4&gt;Entity Resolution&lt;span class=&#34;absolute -mt-20&#34; id=&#34;entity-resolution&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#entity-resolution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;In AML and illicit finance, we are always striving toward a source of truth. We enrich our data in the hopes of getting to that truth.&lt;/p&gt;
+&lt;p&gt;Enriching data requires that investigators perform entity resolution to ensure that they are correctly linking records together.&lt;/p&gt;
+&lt;p&gt;Enity resolution is broadly speaking the process of identifying data records in a source across multiple sources that refer to the same entity.&lt;/p&gt;
+&lt;p&gt;You can resolve entities manually, usually by looking at the similarity of their names, age, height, and other data points. As you read these records, you understand if the sources describe the same two peope.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re certain the records match, you can merge the records and enrich  your entity.&lt;/p&gt;
+&lt;p&gt;Manually resolving entities is a time-consuming task, so investigators naturally rely on data science to combine records.&lt;/p&gt;
+&lt;p&gt;In the world of data, entity resolution or record matching also goes by the name of some of its techniques, like fuzzy matching, merge purge, data matching or idenity resolution.&lt;/p&gt;
+&lt;p&gt;Through entity resolution, we can identify if two records refer to the same entity and enrich our understanding of that data. Once we have a source of truth, the next step is understanding how to use it.&lt;/p&gt;
+&lt;h3&gt;Network Analysis&lt;span class=&#34;absolute -mt-20&#34; id=&#34;network-analysis&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#network-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Data dumps are rarely useful on thier own and the process of collecting, enriching and resolving data should yield a big set of data.&lt;/p&gt;
+&lt;p&gt;Network analysis is one of the techniques that investigators can use to extract useful information from big data.&lt;/p&gt;
+&lt;p&gt;This useful information teaches us about network risks and broader trends in how illict finance is organised.&lt;/p&gt;
+&lt;p&gt;In the investigation into Roman Abramovich, investigators identfied 6 companies associated with him and the football club Vitesse.&lt;/p&gt;
+&lt;iframe src=&#34;https://embed.kumu.io/7839eb07b6212cd1cdbe0acb1267f260#untitled-map&#34; width=&#34;100%&#34; height=&#34;500px&#34; class=&#39;iframe&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;By drawing the connections between these entities, we learn who&amp;rsquo;s connection to whom and how sanctioned individuals like Roman Abramovich use offshore networks to circumvent sanctions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2&gt;Recap&lt;span class=&#34;absolute -mt-20&#34; id=&#34;recap&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recap&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Every investigation requires four simple steps to be successful. Before you start, you should decide on a way of first describing objects and relations and then set up a system of classifying these objects. Once ready, start by identifying and collecting information from reliable sources, then, branch out by collecting data from as many relevant sources as possible. Use entity resolution to match records and find useful insights in your data with network analysis.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Toward a taxonomy to describe sources in adverse media</title>
+      <link>http://localhost:34151/posts/adverse_media_taxonomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/groupint/</guid>
+      <guid>http://localhost:34151/posts/adverse_media_taxonomy/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Unmasking networks on Telegram with Groupint</title>
+      <link>http://localhost:34151/posts/groupint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34151/posts/groupint/</guid>
       <description>
         
         
         &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/groupintgraph.png&#34; title=&#34;Graph of networks on Telegram&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:34151/images/groupintgraph.png&#34; title=&#34;Graph of networks on Telegram&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Graph of networks on Telegram&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;In recent years, Telegram has become popular for threat actors to engage in illicit activity. These actors range from simple fraudsters to cybercriminals and Russian military and intelligence personnel.&lt;/p&gt;
@@ -78,12 +308,12 @@
 &lt;h2&gt;Architecture&lt;span class=&#34;absolute -mt-20&#34; id=&#34;architecture&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#architecture&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The architecture behind Groupint is straightforward. Our user logs in to Groupint, our streamlit app. The group that the user queries is communicated to Telesint using a python library called &lt;a href=&#34;https://docs.telethon.dev/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telethon&lt;/a&gt;. This library is crucial. We use it to connect to Telesint and scrape results.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/architecture_groupint.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;architecture&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:34151/images/architecture_groupint.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;architecture&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Groupint Architecture&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Results are stored in a Neo4j database, which we use to draw connections between individuals in different groups in a graph that outlines each network present on Telegram.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/groupintgraph.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:34151/images/groupintgraph.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Groupint Architecture&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Get started&lt;span class=&#34;absolute -mt-20&#34; id=&#34;get-started&#34;&gt;&lt;/span&gt;
