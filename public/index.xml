@@ -95,11 +95,11 @@ In exchange, is it not fair to expect business owners to help society ensure tha
     </item>
     
     <item>
-      <title>Three research steps in sanctions</title>
-      <link>http://localhost:1313/posts/ukrainian_sanctionsar/</link>
+      <title>Three steps in sanctions research</title>
+      <link>http://localhost:1313/posts/three_steps_sanctions/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ukrainian_sanctionsar/</guid>
+      <guid>http://localhost:1313/posts/three_steps_sanctions/</guid>
       <description>
         
         
@@ -231,7 +231,20 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
     </item>
     
     <item>
-      <title>Groupint and unmasking networks on Telegram</title>
+      <title>Toward a taxonomy to describe sources in adverse media</title>
+      <link>http://localhost:1313/posts/adverse_media_taxonomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/adverse_media_taxonomy/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Unmasking networks on Telegram with Groupint</title>
       <link>http://localhost:1313/posts/groupint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -239,7 +252,11 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
       <description>
         
         
-        &lt;p&gt;In recent years, Telegram has become popular for threat actors to engage in illicit activity. These actors range from simple fraudsters to cybercriminals and Russian military and intelligence personnel.&lt;/p&gt;
+        &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/images/groupintgraph.png&#34; title=&#34;Graph of networks on Telegram&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Graph of networks on Telegram&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, Telegram has become popular for threat actors to engage in illicit activity. These actors range from simple fraudsters to cybercriminals and Russian military and intelligence personnel.&lt;/p&gt;
 &lt;p&gt;Telegram is popular because of its end-to-end encrypted messaging, yet, the platform is not as anonymous as users believe. In fact, it&amp;rsquo;s a rich repository of information.&lt;/p&gt;
 &lt;p&gt;Investigators can use this information to identify networks on Telegram and connect who&amp;rsquo;s talking to whom.&lt;/p&gt;
 &lt;p&gt;Groupint is a recent OSINT tool investigators can use to invesigate networks on Telegram. I helped develop this tool as part of the R&amp;amp;D team at OSINT for Ukraine and in this post, we&amp;rsquo;ll explore how we built an app that lets users see who&amp;rsquo;s talking to whom on Telegram.&lt;/p&gt;
@@ -287,8 +304,77 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
 &lt;/div&gt;
   &lt;/div&gt;
 &lt;/details&gt;
-&lt;h2&gt;Telethon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;telethon&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#telethon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;Architecture&lt;span class=&#34;absolute -mt-20&#34; id=&#34;architecture&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#architecture&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The architecture behind Groupint is straightforward. Our user logs in to Groupint, our streamlit app. The group that the user queries is communicated to Telesint using a python library called &lt;a href=&#34;https://docs.telethon.dev/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telethon&lt;/a&gt;. This library is crucial. We use it to connect to Telesint and scrape results.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/images/architecture_groupint.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;architecture&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Groupint Architecture&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Results are stored in a Neo4j database, which we use to draw connections between individuals in different groups in a graph that outlines each network present on Telegram.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/images/groupintgraph.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Groupint Architecture&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;Get started&lt;span class=&#34;absolute -mt-20&#34; id=&#34;get-started&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#get-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Acquire API Credentials&lt;span class=&#34;absolute -mt-20&#34; id=&#34;acquire-api-credentials&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#acquire-api-credentials&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When you log in to Groupint, you  set up a session with Telesint to access data on Telegram groups. Creating a session requires that you provide the phone number linked to your Telegram account and your Telegram API id and API hash.&lt;/p&gt;
+&lt;p&gt;Acquire the API id and API hash from Telegram. You need to do the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sign up to &lt;a href=&#34;https://core.telegram.org/api/obtaining_api_id&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Log in to your Telegram account &lt;a href=&#34;https://my.telegram.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Got to &amp;ldquo;API development tools&amp;rdquo; section and fill out the form.&lt;/li&gt;
+&lt;li&gt;You will get your API id and API hash parameters required for user authorization.&lt;/li&gt;
+&lt;li&gt;For the moment, each number can only have one api id connected to it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Prerequisites&lt;span class=&#34;absolute -mt-20&#34; id=&#34;prerequisites&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#prerequisites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Make sure that you have installed on your system:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Docker to compose the project&lt;/li&gt;
+&lt;li&gt;Python 3.11&lt;/li&gt;
+&lt;li&gt;Poetry to install python dependencies and set up your virtual environment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Clone project and start containers&lt;span class=&#34;absolute -mt-20&#34; id=&#34;clone-project-and-start-containers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clone-project-and-start-containers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Clone the Groupint project from the OSINT for Ukraine Github accoun and run docker-compose or docker compose to set up the project .&lt;/p&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code&gt;git clone https://github.com/OSINT-for-Ukraine/groupint.git
+cd groupint
+docker-compose up&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Set your login credentials. Create a secrets.toml file inside the streamlit folder and set your password.&lt;/p&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code&gt;# Create secrets file 
+cd streamlit 
+touch secrets.toml
+# Set password variable
+password = &amp;#34;xxxx&amp;#34;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Run a local instance of Groupint&lt;span class=&#34;absolute -mt-20&#34; id=&#34;run-a-local-instance-of-groupint&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#run-a-local-instance-of-groupint&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You can start your local instance of Groupint and run the app locally with the command:&lt;/p&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code&gt;streamlit run interface.py&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
       </description>
     </item>
     

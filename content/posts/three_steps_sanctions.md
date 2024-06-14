@@ -1,5 +1,5 @@
 ---
-title: Three research steps in sanctions
+title: Three steps in sanctions research
 date: 2024-04-19
 draft: false
 ---

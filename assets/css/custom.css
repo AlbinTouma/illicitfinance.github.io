@@ -1,21 +1,51 @@
+@font-face {
+  font-family: 'Atlas Grotesk Regular';
+  src: url('AtlasGrotesk-Regular.otf');
+  font-weight: 100;
+  font-style: normal;
+  font-size: 1.06rem;
+  color: rgb(41, 42, 43);
+  -webkit-font-smoothing: antialiased;
+}
+
 div.content a {
   color: red;
 }
 
 .content {
-  font-family: "Noto Sans Display", sans-serif;
-  font-style: normal;
-  font-weight: 400;
+  font-family: "Atlas Grotesk Regular", sans-serif;
   font-optical-sizing: auto;
   font-variation-settings: "wdth" 100;
-  font-size: 18px;
-
 }
 
 .content p {
-  line-height: 1.6;
+  line-height: 1.65;
+  margin-botton: 1rem;
+  margin-top: 0;
+  box-sizing: border-box;
+  display: box;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  outline: 0;
+  font-size: 1.06rem;
+  word-break: break-word;
+  font-weight: 100;
   /* https://www.mediavine.com/increase-your-line-height-and-improve-rpm-and-readability/#:~:text=That%20figure%20multiplies%20your%20font,No. */
 
+}
+
+h1 {
+  font-style: normal !important;
+  line-height: 1.2 !important;
+  font-size: 2rem !important;
+  font-weight: 400 !important;
+}
+
+.content h1, .content h2, .content h3 {
+  font-style: normal;
+  line-height: 1.2;
+  font-size: 1.25rem;
+  font-weight: 400;
 }
 
 .iframe {

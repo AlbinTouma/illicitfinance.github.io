@@ -22,6 +22,12 @@ menu:
       weight: 3
       params:
         type: search
+    - name: GitHub
+      url: "https://github.com/AlbinTouma"
+      params:
+        icon: github
+
+
    
 params:
    navbar:
@@ -42,7 +48,6 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
-
 
 services:
   googleAnalytics:
