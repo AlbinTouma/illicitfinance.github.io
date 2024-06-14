@@ -1,6 +1,13 @@
 ---
 title: Three steps in sanctions research
 date: 2024-04-19
+authors: 
+
+    - name: "Albin Touma"
+      link: https://github.com/AlbinTouma
+      image: https://avatars.githubusercontent.com/u/107361490?v=4
+tags:
+  - "Python" 
 draft: false
 ---
 We often talk about sanctions in the context of efficiency or individual cases. Who's who in the sanctions space has, as a result, become elusive when there are characteristics, data sets, and methods of revealing sanctioned entities and their networks. 

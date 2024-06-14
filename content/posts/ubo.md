@@ -1,8 +1,13 @@
 ---
 title: 'What is the evidence for public ownership registries?' 
 date: 2024-04-19T18:25:47+03:00
-tags: ['Policy review']
-author: 'Albin Touma'
+authors: 
+    - name: "Albin Touma"
+      link: https://github.com/AlbinTouma
+      image: https://avatars.githubusercontent.com/u/107361490?v=4
+tags:
+  - "Python" 
+draft: false
 ---
 
 While in New York, I asked a friend about his business in Florida and he explained to me that he is the owner through his Scandinavian business. Tracing his ownership structure would be time consuming and the task is made harder by the decision of the Court of Justice of the European Union (CJEU) to annul public access to ownership registries.
