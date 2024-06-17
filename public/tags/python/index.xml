@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illicit Finance – Python</title>
-    <link>http://localhost:34151/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Illicit Finance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2024 18:25:47 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:34151/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>What is the evidence for public ownership registries?</title>
-      <link>http://localhost:34151/posts/ubo/</link>
+      <link>http://localhost:1313/posts/ubo/</link>
       <pubDate>Fri, 19 Apr 2024 18:25:47 +0300</pubDate>
       
-      <guid>http://localhost:34151/posts/ubo/</guid>
+      <guid>http://localhost:1313/posts/ubo/</guid>
       <description>
         
         
@@ -97,10 +97,10 @@ In exchange, is it not fair to expect business owners to help society ensure tha
     
     <item>
       <title>Three steps in sanctions research</title>
-      <link>http://localhost:34151/posts/three_steps_sanctions/</link>
+      <link>http://localhost:1313/posts/three_steps_sanctions/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:34151/posts/three_steps_sanctions/</guid>
+      <guid>http://localhost:1313/posts/three_steps_sanctions/</guid>
       <description>
         
         
@@ -232,29 +232,16 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
     </item>
     
     <item>
-      <title>Toward a taxonomy to describe sources in adverse media</title>
-      <link>http://localhost:34151/posts/adverse_media_taxonomy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:34151/posts/adverse_media_taxonomy/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Unmasking networks on Telegram with Groupint</title>
-      <link>http://localhost:34151/posts/groupint/</link>
+      <link>http://localhost:1313/posts/groupint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:34151/posts/groupint/</guid>
+      <guid>http://localhost:1313/posts/groupint/</guid>
       <description>
         
         
         &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:34151/images/groupintgraph.png&#34; title=&#34;Graph of networks on Telegram&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/images/groupintgraph.png&#34; title=&#34;Graph of networks on Telegram&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Graph of networks on Telegram&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;In recent years, Telegram has become popular for threat actors to engage in illicit activity. These actors range from simple fraudsters to cybercriminals and Russian military and intelligence personnel.&lt;/p&gt;
@@ -308,12 +295,12 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
 &lt;h2&gt;Architecture&lt;span class=&#34;absolute -mt-20&#34; id=&#34;architecture&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#architecture&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The architecture behind Groupint is straightforward. Our user logs in to Groupint, our streamlit app. The group that the user queries is communicated to Telesint using a python library called &lt;a href=&#34;https://docs.telethon.dev/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telethon&lt;/a&gt;. This library is crucial. We use it to connect to Telesint and scrape results.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:34151/images/architecture_groupint.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;architecture&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/images/architecture_groupint.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;architecture&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Groupint Architecture&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Results are stored in a Neo4j database, which we use to draw connections between individuals in different groups in a graph that outlines each network present on Telegram.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:34151/images/groupintgraph.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/images/groupintgraph.png&#34; title=&#34;Groupint Architecture&#34; alt=&#34;graph&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Groupint Architecture&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Get started&lt;span class=&#34;absolute -mt-20&#34; id=&#34;get-started&#34;&gt;&lt;/span&gt;
