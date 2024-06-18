@@ -60,6 +60,7 @@ h1 {
 .main {
   max-width: 768px;
   margin: auto;
+  padding: 1%;
 }
 
 
@@ -82,10 +83,31 @@ h1 {
 
 }
 
-.header-title{
-   margin-bottom: 10px;
-}
 
 .header-image {
   width: 50%;
+}
+
+
+@media only screen and (max-width: 750px) {
+  .main {
+    margin: auto;
+    justify: center;
+    items-align: center;
+    padding: 10%;
+  }
+  .homepage-header {
+    display: flex;
+    flex-direction: column;
+    justify: center;
+  }
+  .homepage-header h1  {
+    font-size: 1rem;
+    width: 100%;
+    font-family: "Atlas Grotesk Regular", sans-serif;
+  }
+  .header-image{
+    width: 100%;
+    height: fit;
+  }
 }
