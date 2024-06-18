@@ -1,13 +1,10 @@
 ---
+title: "Leveraging data to investigate illicit finance and the business networks behind crime and war"
 ---
 
-# Illicit Finance
 
 
-Welcome to Illicit Finance for Investigators -- a collection of investigations into illicit financial flows and the business networks behind crime and war.
+# Insights
 
-
-
-## Insights
 
 {{< list_posts section="posts" >}} 

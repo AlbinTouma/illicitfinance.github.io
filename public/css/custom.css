@@ -12,6 +12,10 @@ div.content a {
   color: #292a2b;
 }
 
+.main {
+ padding-bottom: 5%;
+}
+
 .content {
   font-family: "Atlas Grotesk Regular", sans-serif;
   font-optical-sizing: auto;
@@ -51,4 +55,37 @@ h1 {
 .iframe {
   margin-top: 50px;
   margin-bottom: 50px
+}
+
+.main {
+  max-width: 768px;
+  margin: auto;
+}
+
+
+.homepage-header {
+  display:  flex;
+  flex-direction: flex-row;
+  height: 500px;
+  justify: center;
+  align-items: center;
+  gap: 5%;
+}
+
+.header-text {
+  width: 50%;
+  font-style: normal;
+  line-height: 1.2;
+  font-size: 1.2rem;
+  font-weight: 400;
+  font-family: "Atlas Grotesk Regular", sans-serif;
+
+}
+
+.header-title{
+   margin-bottom: 10px;
+}
+
+.header-image {
+  width: 50%;
 }

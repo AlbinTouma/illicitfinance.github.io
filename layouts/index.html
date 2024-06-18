@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <main aria-role="main" class="main">
+  <head>
+  <script src="assets/css/custom.css" ref="stylesheet"></script>
+  </head>
+    <header class="homepage-header">
+      <h1 class="header-text">Leveraging data to investigate illicit finance and the business networks behind crime and war</h1>
+      <img class="header-image" src="images/header.jpg"> </image>
+    </header>
+    <div class="content">
+     <h1 >Insights</h1>
+
+    {{ range .Site.RegularPages }}
+
+    <a class="" href="{{ .Permalink }}"style="text-decoration: none;">
+      <h3>{{.LinkTitle}}  </h3>
+    </a>
+
+    {{end}}
+    </div>
+  </main>
+{{ end }}
