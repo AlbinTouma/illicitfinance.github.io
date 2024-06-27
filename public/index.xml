@@ -231,6 +231,80 @@ Title: Maulavi Designation: Minister of Agriculture under the Taliban regime DOB
     </item>
     
     <item>
+      <title>Redefining Good Coverage in Adverse Media: A Typology Based Approach</title>
+      <link>http://localhost:1313/posts/adverse_media_taxonomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/adverse_media_taxonomy/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Adverse Media, also known as negative news screening, requires that companies identify risks associated with a company or individual in media. Traditionally, compliance officers use Google and keyword searches to find articles, but this process has largely been automated by machine learning models that can identify risks in thousands of articles online.&lt;/p&gt;
+&lt;p&gt;The explosion in the number of articles that companies process has led to confusion in the compliance industry as to what we mean by &amp;ldquo;good coverage&amp;rdquo; when we talk about adverse media. People fall back on quantity as a measure of good coverage when they shouldn&amp;rsquo;t since adverse media is associated with high levels of noise.&lt;/p&gt;
+&lt;p&gt;Many sources are simply not relevant and one provider that I reviewed braged about scraping 200,000 domains. Among these domains were recipe blogs. Part of the reason why we don&amp;rsquo;t have a definition of &amp;ldquo;good&amp;rdquo; in adverse media is because there is no standard way of describing sources.&lt;/p&gt;
+&lt;p&gt;In this article I&amp;rsquo;ll share with you how I designed an adverse media typology and why you should focus on the relevance of your adverse media sources rather than their percieved reliability.&lt;/p&gt;
+&lt;h2&gt;Typology of sources in adverse media&lt;span class=&#34;absolute -mt-20&#34; id=&#34;typology-of-sources-in-adverse-media&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#typology-of-sources-in-adverse-media&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;My task as a researcher on Comply Advatange&amp;rsquo;s adverse media team was to build a typology that would help us communicate the sources we cover to clients. Our adverse media typology had to explain why we selected those specific sources and not &amp;ldquo;everything&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The table below is the result of iterations with clients and regulatory affairs and it serves as an example of how we can define sources in the world of adverse media.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Typology&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;International newspaper&lt;/td&gt;
+&lt;td&gt;News websites, news aggregators, online websites, international newspapers published in more than one language and distributed in more than one country.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;National newspaper&lt;/td&gt;
+&lt;td&gt;A newspaper distributed in one country.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Regional &amp;amp; local newspaper&lt;/td&gt;
+&lt;td&gt;A newspaper distributed in a city or region&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Judicial authority&lt;/td&gt;
+&lt;td&gt;Any soure extracted from a court or judicial ministry website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Police authoriy&lt;/td&gt;
+&lt;td&gt;A source extracted from police department or ministry. For example, police blotters or watch press release.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Public authority&lt;/td&gt;
+&lt;td&gt;A source extracted from a public authority or international organisation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Industry or professional blogs&lt;/td&gt;
+&lt;td&gt;A blog or company website published by a professional or company&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;The legal research behind the typology&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-legal-research-behind-the-typology&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-legal-research-behind-the-typology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The taxonomy is based on best practices rather than regulatory requirements. What I found from legal research and from working with our regulatory affairs team is that adverse media regulatory requirements are broad and pretty similar regardless of country.&lt;/p&gt;
+&lt;p&gt;Regulatory requirements do not provide by design a clear definition of what sources an AML officer should cover and I noticed this in client calls since clients themselves rarely could tell &amp;ldquo;what sources&amp;rdquo; they really want. The benefit of working in a regulatory landscape with broad definitions is that it gives you freedom to shape and optimise your typology.&lt;/p&gt;
+&lt;p&gt;In the absence of strict regulatory requirements, I turned to industry recommendations of best practices to determine what &amp;ldquo;good&amp;rdquo; is in adverse media. One organisation that publishes best practices is the Wolfsberg Group.&lt;/p&gt;
+&lt;h2&gt;Best Practices&lt;span class=&#34;absolute -mt-20&#34; id=&#34;best-practices&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#best-practices&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In their recommendations, the Wolfsberg Group outline a clear preference for international, national, and regional newspapers in order of prefence.&lt;/p&gt;
+&lt;p&gt;They mention in their report that compliance officers should rely on news agencies and national newspapers since they provide higher quality reporting and editorial oversight. These sources provide content that is corroborated and edited by network participants. The Wolfsberg Group lists regional and local newspapres as useful since they report on events which are not covered by large scale outlets but note that these sources can often be less reliable.&lt;/p&gt;
+&lt;h2&gt;Why the typology is not a ranking sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;why-the-typology-is-not-a-ranking-sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-the-typology-is-not-a-ranking-sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;My initial reaction to the Wolfsberg Group was to build a typology surrounding the concept of reliability, placing public, judicial, and government sources as the most reliable sources followed by newspapers and blogs. However, while meeting with clients I learnt that prioritising certain sources opens up the trap door to quanity over quality.&lt;/p&gt;
+&lt;p&gt;The question that clients would have after discussing our coverage would almost without exception be something along the lines of: &amp;ldquo;so why can&amp;rsquo;t we have more judicial sources?&amp;rdquo; The answer is usually that there are only so many courts in a country. Instead of ranking sources, I thought of building the taxonomy around the concept of relevance.&lt;/p&gt;
+&lt;h2&gt;Aim for relevancy rather than strict reliability&lt;span class=&#34;absolute -mt-20&#34; id=&#34;aim-for-relevancy-rather-than-strict-reliability&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aim-for-relevancy-rather-than-strict-reliability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When the Wolfsberg group recommends international and national newspaper, their concern is with big corporations that rank high on Google. This is because they keep keyword searches in mind. What you want to achieve with a machine learning approach is to cover what is most relevant on Google and retrieve  the pages that a simple keyword won&amp;rsquo;t find.&lt;/p&gt;
+&lt;p&gt;When you cast adverse media as a search optimised (SOE) ice berg, having a simple but well defined typology becomes really valuable.&lt;/p&gt;
+&lt;p&gt;The typology allows us to demonstrate the relevancy of our sources. It helps us show clients that we cover the tip of the ice berg by which I mean the domains that rank high on Google. We can then point to the sources below the tip, those sources that we curate and which an AML officer would likely miss with a simple keyword search.&lt;/p&gt;
+&lt;h2&gt;Recap&lt;span class=&#34;absolute -mt-20&#34; id=&#34;recap&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recap&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Adverse Media is full of noise and because the industry has yet to come to terms with what we mean by &amp;ldquo;good media coverage&amp;rdquo;, the focus remains on quantity rather than cutting through the noise. With the help of a typology of sources in Adverse Media, we can pivot the conversation and discuss &amp;ldquo;relevancy&amp;rdquo;. This way, the industry can ask whether an AML provider curates relevant sources in addition to what ranks highest on Google.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Unmasking networks on Telegram with Groupint</title>
       <link>http://localhost:1313/posts/groupint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

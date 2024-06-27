@@ -25,6 +25,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/adverse_media_taxonomy/</loc>
+  </url><url>
     <loc>http://localhost:1313/posts/groupint/</loc>
   </url>
 </urlset>
