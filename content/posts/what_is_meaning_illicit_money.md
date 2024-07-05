@@ -1,5 +1,5 @@
 ---
-title: 'What is the definition of illicit finance?' 
+title: 'What is the meaning of illicit money?' 
 date: 2024-04-19T18:25:47+03:00
 authors: 
     - name: "Albin Touma"
