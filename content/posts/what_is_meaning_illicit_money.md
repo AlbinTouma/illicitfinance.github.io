@@ -6,8 +6,8 @@ authors:
       link: https://github.com/AlbinTouma
       image: https://avatars.githubusercontent.com/u/107361490?v=4
 tags:
-  - "Python" 
-draft: true
+  - "AML" 
+draft: false
 ---
 
 Despite substantial work from the United Nations, the World Bank, the IMF, OECD, and civil society, countries have been unable to reach a political consensus on the term "illicit" in illicit financial flows (IFFs). 
